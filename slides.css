@@ -1,0 +1,74 @@
+@import 'reveal.js/dist/reset.css';
+@import 'reveal.js/dist/reveal.css';
+@import 'reveal-a11y/accessibility/helper.css';
+@import 'open-sans/open-sans.css';
+@import 'theme.css';
+
+/*
+ * Figure: Impact map
+ */
+
+.fig-im {
+  --color-level-1: khaki;
+  --color-level-2: palegreen;
+  --color-level-3: skyblue;
+  --color-level-4: lightcoral;
+  --color-level-5: plum;
+  text-align: left;
+}
+
+.fig-im > :first-child {
+  margin-top: -0.5rem;
+}
+
+.fig-im ul {
+  list-style-type: none !important;
+  margin: 0;
+}
+
+.fig-im ul ul {
+  margin: 0 0 0 1rem;
+}
+
+.fig-im ul {
+  --color: var(--color-level-1);
+}
+
+.fig-im ul ul {
+  --color: var(--color-level-2);
+}
+
+.fig-im ul ul ul {
+  --color: var(--color-level-3);
+}
+
+.fig-im ul ul ul ul {
+  --color: var(--color-level-4);
+}
+
+.fig-im ul ul ul ul ul {
+  --color: var(--color-level-5);
+}
+
+.fig-im li {
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.fig-im li strong:first-child {
+  color: var(--color);
+  font-weight: bold;
+}
+
+.fig-im li > p {
+  margin: 0;
+}
+
+.fig-im li > p:not(:first-child) {
+  font-size: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.fig-im--small li {
+  font-size: 0.5rem;
+}

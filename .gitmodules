@@ -1,0 +1,9 @@
+[submodule "open-sans"]
+	path = open-sans
+	url = https://github.com/FontFaceKit/open-sans
+[submodule "reveal-a11y"]
+	path = reveal-a11y
+	url = https://github.com/marcysutton/reveal-a11y
+[submodule "reveal.js"]
+	path = reveal.js
+	url = https://github.com/hakimel/reveal.js.git
