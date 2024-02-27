@@ -6,51 +6,48 @@
  * Global styles
  */
  :root {
-  --color-swit-blue: #243142;
-  --color-swit-orange: #fba61a;
-  --color-swit-yellow: #f8d02d;
-  --color-base-0: #000;
-  --color-base-1: #111;
-  --color-base-2: #222;
-  --color-base-3: #333;
-  --color-base-6: #666;
-  --color-base-7: #999;
-  --color-base-8: #eee;
-  --color-base-9: #fff;
-  --fs-0: calc(32rem/40);
-  --fs-1: 1rem;
-  --fs-2: 2rem;
-  --fs-3: 3rem;
+	--color-black: #000;
+	--color-swit-red-1: #db2427;
+	--color-swit-red-2: #7f1416;
+	--color-swit-gray-1: #a1acb5;
+	--color-swit-gray-2: #4d5a69;
+	--color-swit-gray-3: #243142;
+	--color-swit-gray-4: #0f1926;
+	--color-white: #fff;
+	--fs-0: calc(32rem/40);
+	--fs-1: 1rem;
+	--fs-2: 2rem;
+	--fs-3: 3rem;
 }
 
 html {
-  font-size: 40px;
+	font-size: 40px;
 }
 
 .reveal-viewport {
-  --color-accent: var(--color-swit-yellow);
-  --color-bg: var(--color-swit-blue);
-  --color-text: var(--color-base-9);
-  background-color: var(--color-bg);
-  color: var(--color-text);
-  font-family: "Open Sans", sans-serif;
-  line-height: 1.2;
+	--color-accent: var(--color-swit-red-1);
+	--color-bg: var(--color-swit-gray-4);
+	--color-text: var(--color-white);
+	background-color: var(--color-bg);
+	color: var(--color-text);
+	font-family: "Open Sans", sans-serif;
+	line-height: 1.2;
 }
 
 .reveal-viewport--primary {
-  --color-accent: var(--color-swit-blue);
-  --color-bg: var(--color-swit-yellow);
-  --color-text: var(--color-swit-blue);
+	--color-accent: var(--color-swit-red-1);
+	--color-bg: var(--color-swit-white);
+	--color-text: var(--color-swit-gray-4);
 }
 
 .reveal ::selection {
-  background: var(--color-accent);
-  color: var(--color-bg);
+	background: var(--color-accent);
+	color: var(--color-bg);
 }
 
 .reveal .controls,
 .reveal .progress {
-  color: var(--color-accent);
+	color: var(--color-accent);
 }
 
 /*
@@ -58,130 +55,130 @@ html {
  */
 .reveal h1,
 .reveal h2 {
-  font-weight: bold;
-  margin: 0 0 0.5rem;
-  word-wrap: break-word;
+	font-weight: bold;
+	margin: 0 0 0.5rem;
+	word-wrap: break-word;
 }
 
 .reveal h1 {
-  font-size: 2.5rem;
+	font-size: 2.5rem;
 }
 
 .reveal h2 {
-  font-size: 2rem;
+	font-size: 2rem;
 }
 
 .reveal p {
-  margin: 0 0 0.5rem;
+	margin: 0 0 0.5rem;
 }
 
 .reveal iframe,
 .reveal img,
 .reveal video {
-  max-height: 95%;
-  max-width: 95%;
+	max-height: 95%;
+	max-width: 95%;
 }
 
 .reveal ol,
 .reveal ul {
-  display: inline-block;
-  margin: 0 0 0.5rem 1rem;
-  text-align: left;
+	display: inline-block;
+	margin: 0 0 0.5rem 1rem;
+	text-align: left;
 }
 
 .reveal ul ul,
 .reveal ul ol,
 .reveal ol ol,
 .reveal ol ul {
-  display: block;
-  margin-left: 1rem;
+	display: block;
+	margin-left: 1rem;
 }
 
 .reveal li + li {
-  margin-top: 0.5rem;
+	margin-top: 0.5rem;
 }
 
 .reveal blockquote {
-  border-color: var(--color-accent);
-  border-style: solid;
-  border-width: 0.1rem 0;
-  display: block;
-  margin: 1rem auto;
-  padding-top: 0.5rem;
-  text-align: left;
-  width: 80%;
+	border-color: var(--color-accent);
+	border-style: solid;
+	border-width: 0.1rem 0;
+	display: block;
+	margin: 1rem auto;
+	padding-top: 0.5rem;
+	text-align: left;
+	width: 80%;
 }
 
 .reveal blockquote p:first-child,
 .reveal blockquote p:last-child {
-  display: inline-block;
+	display: inline-block;
 }
 
 .reveal em {
-  font-style: italic;
+	font-style: italic;
 }
 
 .reveal q {
-  font-style: italic;
+	font-style: italic;
 }
 
 .reveal strong {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 .reveal table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  margin: 0 auto 0.5rem;
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin: 0 auto 0.5rem;
 }
 
 .reveal table th {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 .reveal table th,
 .reveal table td {
-  border-bottom: 1px solid;
-  padding: 0.25rem;
-  text-align: left;
+	border-bottom: 1px solid;
+	padding: 0.25rem;
+	text-align: left;
 }
 
 .reveal table th[align="center"],
 .reveal table td[align="center"] {
-  text-align: center;
+	text-align: center;
 }
 
 .reveal table th[align="right"],
 .reveal table td[align="right"] {
-  text-align: right;
+	text-align: right;
 }
 
 .reveal footer {
-  font-size: var(--fs-0);
-  margin-top: 1.5rem;
+	font-size: var(--fs-0);
+	margin-top: 1.5rem;
 }
 
 .reveal a {
-  color: inherit;
-  text-decoration-color: var(--color-accent);
+	color: inherit;
+	text-decoration-color: var(--color-accent);
 }
 
 .reveal figure {
-  margin: 1rem auto;
-  width: fit-content;
+	margin: 1rem auto;
+	width: fit-content;
 }
 
 .reveal figcaption,
 .sr-only {
-  border-width: 0;
-  clip: rect(0, 0, 0, 0);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
+	border-width: 0;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
 }
 
 /*
@@ -190,13 +187,13 @@ html {
 
 @media print {
 
-  .reveal-viewport {
-    background-color: var(--color-base-9);
-  }
-  
-  .reveal {
-    color: var(--color-base-0);
-  }
+	.reveal-viewport {
+		background-color: var(--color-white);
+	}
+	
+	.reveal {
+		color: var(--color-black);
+	}
 }
 
 /*
@@ -205,7 +202,7 @@ html {
 
 /* https://github.com/marcysutton/reveal-a11y/issues/7 */
 .reveal.overview .slides section > .accessibilityWrapper {
-  display: block;
-  outline: none;
-  visibility: visible;
+	display: block;
+	outline: none;
+	visibility: visible;
 }
