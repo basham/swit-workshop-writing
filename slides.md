@@ -105,25 +105,40 @@ We can make our digital systems feel more human and conversational. Here are eig
 
 Reduce required effort and upfront knowledge
 
-> System: "You can do A or B."  
-Human: "I choose B."  
-System: "Okay!"
+> - **Waiter:** Would you like wheat bread or gluten-free bread?
+> - **Customer:** Wheat, please.
+> - **Waiter:** Great.
 
 
 
 ## (Not cooperative)
 
-Requires effort and upfront knowledge
+Requires effort or upfront knowledge
 
-> Human: "I want to do C."  
-System: "Nope."  
-Human: "…?"
+> - **Customer:** Can you call me when this table is back in stock?
+> - **Furniture rep:** No.
+> - **Customer:** Then what should I do?
+> - **Furniture rep:** Check back later.
 
 
 
 ## 2. Goal-oriented
 
-Helps both humans and systems meet their goals
+Helps both people and systems meet their goals
+
+> - Person reads The Home Depot's *How to Hang Drywall* guide.
+> - Person browses related products.
+
+Notes:
+https://www.homedepot.com/c/ah/how-to-hang-drywall/9ba683603be9fa5395fab90cbb4826d
+
+
+
+## (Not goal-oriented)
+
+One-sided or no-sided
+
+> - 
 
 
 
@@ -131,16 +146,15 @@ Helps both humans and systems meet their goals
 
 Sensitive to time, place, circumstance
 
-> Would you like to automatically turn on Silent Mode when you arrive at the movie theater?
+> **Phone notification:** Would you like to automatically turn on Silent Mode when you arrive at the movie theater?
 
 
 
 ## (Not context-aware)
 
-Email to customer:
+Generic, insensitive
 
-> Exciting news! You have been invited to "Celebrating the life of Jack." RSVP now!  
-&nbsp;
+> **Email:** Exciting news! You have been invited to "Celebrating the life of Jack." RSVP now!
 
 Notes:
 https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
@@ -149,21 +163,95 @@ https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
 
 ## 4. Quick and clear
 
+To the point
+
+> **Alert:** Document saved
+
+
+
+## (Not quick and clear)
+
+Ambiguous
+
+> **Alert:** System Error 5023
+
 
 
 ## 5. Turn-based
+
+Clarity regarding who should respond
+
+> - **A:** What is your position? Over.
+> - **B:** Two clicks south. Over.
+> - **A:** Proceed as planned. Over and out.
+
+Notes:
+https://en.wikipedia.org/wiki/Procedure_word
+
+
+
+## (Not turn-based)
+
+Monologues or interruptions
+
+> - **A:** (Rambling…)
+> - **B:** Excuse me…
+> - **A:** (Still rambling…)
+> - **B:** Can I just…
+> - **A:** (Rambling continues…)
 
 
 
 ## 6. Truthful
 
+Credible, verifiable, not confusing
+
+> **Email from charity:**  
+> Thank you for donating! We will email you quarterly reports detailing how your money is benefiting the cause.
+
+
+
+## (Not truthful)
+
+Expectation does not meet reality
+
+> - **Note from ISP:** Sorry we missed you! Call this number to talk with us.
+> - **Customer:** (Calls phone number.) Is this my internet service provider?
+> - **Person called:** Why am I still getting these calls!? Wrong number!
+
 
 
 ## 7. Polite
 
+Respect time, anticipate needs
+
+> 
+
+
+
+## (Not polite)
+
+Wastes time, rude
+
+> - **Popup:** Spin this wheel to win!
+> - **Person:** I'm just trying to read this article! I can't find the close button!
+
 
 
 ## 8. Error-tolerant
+
+Anticipates errors, recovers seamlessly
+
+> - **A:** Turn right on Main St in two blocks.
+> - **B:** Main St is in three blocks. Is the turn at Main St or in three blocks?
+
+
+
+## (Not error-tolerant)
+
+> - Technician arrives early, while customer is returning home.
+> - Knocks on door, to no answer.
+> - Leaves before appointment time.
 
 
 
