@@ -1,5 +1,5 @@
 start:
-	live-server --ignore=.git
+	live-server --ignore=.git/**
 
 install:
 	npm install -g live-server
