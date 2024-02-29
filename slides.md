@@ -22,19 +22,6 @@ I'm Chris Basham. I've worked at Indiana University since 2012, as a UX designer
 
 
 
-## Make writing…
-
-1. Conversational
-2. Concise
-3. Clear
-4. Inclusive
-5. Human
-
-Notes:
-…
-
-
-
 ## Resources
 
 https://github.com/basham/swit-workshop-writing
@@ -55,54 +42,105 @@ If you have any questions at any time, please use Zoom to raise your hand or pos
 
 
 
-# Part 1
+# UX writing
 
-Make writing conversational
+Words that solve problems
+
+
+
+## "We need words"
+
+> …is not the problem that we solve as UX writers. We
+communicate. We invite action. We inspire loyalty. Our teams need to
+know that UX writing can be used to solve problems.
+
+— *Strategic Writing for UX*
+
+
+
+## Words should be…
+
+1. Useful (why)
+2. Usable (how, what)
+3. Responsible (when, who)
+
+
+
+## Process
+
+Editing
+
+
+
+## Iterative
+
+> Writing UX text is iterative, starting with less-than-perfect words, then
+replacing those words with slightly better words, and repeating until
+you find the best words. This is the way to make the text purposeful
+and protective, but also concise, conversational, and recognizable as
+coming from the organization’s brand.
+
+— *Strategic Writing for UX*
+
+
+
+## Make writing…
+
+1. Conversational
+2. Concise (usable)
+3. Clear (usable)
+4. Inclusive (responsible)
+5. Human
 
 Notes:
-Writing should be conversational.
+…
 
 
 
-## Meaningful exchange
+# Make writing useful
 
-Human ⇄ (Conversation) ⇄ Human
-
-Human ⇄ (Interface) ⇄ System
+Part 1 of 3
 
 Notes:
-The purpose of a conversation is to have a meaningful exchange of information. This happens as a dialog between two people. But it also happens through a user interface between a person and a digital system. We can use our experience talking with other people as a guide for the writing we use in our digital systems.
+Writing should be useful.
 
 
 
-## Conversational Design
+## Goal-oriented
 
-Erika Hall (2018)
+Help both people and systems meet their goals
 
-![Cover for the book Conversational Design by Erika Hall](assets/conversational-design-book.webp)
-
-Notes:
-In the book Conversational Design, Erika Hall outlines eight design principles we can follow to make our digital systems more conversational.
-
-
-
-## Design principles
-
-1. Cooperative
-2. Goal-oriented
-3. Context-aware
-4. Quick and clear
-5. Turn-based
-6. Truthful
-7. Polite
-8. Error-tolerant
+> - Person reads The Home Depot's [*How to Hang Drywall* guide](https://www.homedepot.com/c/ah/how-to-hang-drywall/9ba683603be9fa5395fab90cbb4826d).
+> - Person purchases related products.
 
 Notes:
-According to these principles, a conversation with an interface or digital system should be: cooperative, goal-oriented, context-aware, quick and clear, turn-based, truthful, polite, and error-tolerant. I'll go through each of these in more detail, with examples. I will also invite you to share any relevant experiences you've had.
+Words that are useful serve a purpose. In product design, that purpose should be to help people and systems meet their goals and solve their problems.
+
+Second, the system should be goal-oriented. Both the person and the system should be able to meet their own goals. For example, a home owner wants to hang drywall for the first time. This requires knowledge, materials, and tools. They discover Home Depot has a guide to walk through this project with videos and written instructions. They've gained knowledge, but the page also lists the materials and tools that they may need. These product pages then display the aisle and bay that they are located in the customer's local store. In summary, the store aims to gain a loyal customer (and their money) by making it easy for the customer to learn about and complete their projects.
 
 
 
-## 1. Cooperative
+## (Not goal-oriented)
+
+One-sided or no-sided
+
+> - 
+
+Notes:
+What experiences have you had (goal-oriented or not goal-oriented)?
+
+
+
+## Cooperation
+
+Work together to meet individual goals
+
+Notes:
+Many goals can't be solved alone. It requires cooperation. People and systems must work together, so they can meet their individual goals.
+
+
+
+## Cooperative
 
 Reduce required effort and upfront knowledge
 
@@ -131,26 +169,96 @@ What experiences have you had (cooperative or not cooperative)?
 
 
 
-## 2. Goal-oriented
+## Meaningful exchange
 
-Helps both people and systems meet their goals
-
-> - Person reads The Home Depot's [*How to Hang Drywall* guide](https://www.homedepot.com/c/ah/how-to-hang-drywall/9ba683603be9fa5395fab90cbb4826d).
-> - Person purchases related products.
+Information or resources
 
 Notes:
-Second, the system should be goal-oriented. Both the person and the system should be able to meet their own goals. For example, a home owner wants to hang drywall for the first time. This requires knowledge, materials, and tools. They discover Home Depot has a guide to walk through this project with videos and written instructions. They've gained knowledge, but the page also lists the materials and tools that they may need. These product pages then display the aisle and bay that they are located in the customer's local store. In summary, the store aims to gain a loyal customer (and their money) by making it easy for the customer to learn about and complete their projects.
+Cooperation is a give and take. It is a meaningful exchange of information or resources.
 
 
 
-## (Not goal-oriented)
+## Exchange with a system
 
-One-sided or no-sided
-
-> - 
+Person ⇄ (Interface) ⇄ System
 
 Notes:
-What experiences have you had (goal-oriented or not goal-oriented)?
+Exchange happens between a person and a system through a user interface.
+
+
+
+## Exchange with a person
+
+Person ⇄ (Conversation) ⇄ Person
+
+Notes:
+A more common form of this meaningful exchange happens when two people engage in a conversation. We can use our experience talking with other people as a guide for the writing we use in our digital systems.
+
+
+
+## Exercise
+
+Have a meaningful conversation
+
+1. Select situation and roles.
+2. Write down goals for your role.
+3. Select principle or anti-principle.
+4. Role-play the conversation.
+5. Write down as text message exchange.
+6. Build a user journey.
+7. Build wireframes.
+
+
+
+## Situations
+
+1. Customer orders pizza for delivery.
+2. Customer schedules haircut.
+3. Customer calls customer service about broken microwave.
+4. Customer talks with post office rep about a missing package.
+5. Friend invites you to their birthday party.
+6. Friend asks you to care for their pet this weekend.
+
+
+
+## Customer orders pizza for delivery.
+
+1. Rep fails to explain options.
+2. Rep gives incorrect delivery time.
+3. Customer gives incorrect credit card number.
+
+
+
+# Make writing usable
+
+Part 2 of 3
+
+
+
+## Conversational Design
+
+Erika Hall (2018)
+
+![Cover for the book Conversational Design by Erika Hall](assets/conversational-design-book.webp)
+
+Notes:
+In the book Conversational Design, Erika Hall outlines eight design principles we can follow to make our digital systems more conversational.
+
+
+
+## Design principles
+
+1. Cooperative (useful)
+2. Goal-oriented (useful)
+3. Context-aware (responsible)
+4. Quick and clear (usable)
+5. Turn-based (usable)
+6. Truthful (responsible)
+7. Polite (responsible)
+8. Error-tolerant (responsible)
+
+Notes:
+According to these principles, a conversation with an interface or digital system should be: cooperative, goal-oriented, context-aware, quick and clear, turn-based, truthful, polite, and error-tolerant. I'll go through each of these in more detail, with examples. I will also invite you to share any relevant experiences you've had.
 
 
 
@@ -300,36 +408,6 @@ In contrast, a system is not error-tolerant if the expectation does not align wi
 
 
 
-## Exercise
-
-Have a meaningful conversation
-
-1. Select situation and roles.
-2. Select principle or anti-principle.
-3. Role-play the conversation.
-4. Reflect on what you experienced.
-
-
-
-## Situations
-
-1. Customer orders pizza for delivery.
-2. Customer schedules haircut.
-3. Customer calls customer service about broken microwave.
-4. Customer talks with post office rep about a missing package.
-5. Friend invites you to their birthday party.
-6. Friend asks you to care for their pet this weekend.
-
-
-
-## Customer orders pizza for delivery.
-
-1. Rep fails to explain options.
-2. Rep gives incorrect delivery time.
-3. Customer gives incorrect credit card number.
-
-
-
 # Part 2
 
 Make writing concise
@@ -339,12 +417,54 @@ Notes:
 
 
 
+## Iteration
+
+Replace words with better words
+Repeat
+Editing
+
+
+
+## Omit needless words
+
+
+
+## Omit needless information
+
+
+
+## Precision
+
+Precision tends to be wordy.
+Progressively reveal content with disclosures or links to other pages.
+
+
+
+## Line length
+
+50 characters words line
+1–4 lines long
+
+
+
+## Buttons, badges
+
+1–3 words
+
+
+
 # Part 3
 
 Make writing clear
 
 Notes:
 …
+
+
+
+## Consistency
+
+Just like how conciseness has tension with precision, clarity has tension with consistency. Prioritize clarity over consistency.
 
 
 
