@@ -20,14 +20,14 @@ Powered by [reveal.js](https://revealjs.com/).
 
 See: [*How to host Reveal.js slides on GitHub pages and have a tidy repository*](https://medium.com/@martinomensio/how-to-host-reveal-js-slides-on-github-pages-and-have-a-tidy-repository-1a363944c38d)
 
-Install [live-server](https://www.npmjs.com/package/live-server) globally.
+Install dependencies ([live-server](https://www.npmjs.com/package/live-server)).
 
 ```
-npm install -g live-server
+make install
 ```
 
-Serve files from the current working directory.
+Start the slide presentation.
 
 ```
-live-server
+make start
 ```
