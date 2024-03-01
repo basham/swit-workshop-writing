@@ -206,14 +206,14 @@ Now, I'd like to hear from you. Think about an experience you've had or know abo
 
 ## Write a meaningful conversation
 
-5-minute activity
+5-minute activity, 1–2 people
 
 1. Select roles and goals of two people.
 2. Write their conversation as a text message.
 3. Finish when both sides achieve their goals.
 
 Notes:
-Now, let's spend a few minutes on an activity. 
+Now, let's spend a few minutes on an activity. This should take no more than 5 minutes. This can be done alone or with someone else. The goal is to role-play a meaningful conversation. Select roles for the two people in the conversation, along with their individual goals. If you are doing this activity with another person, then each person can act as one of the people. Take turns and have each person respond to the other.
 
 
 
@@ -302,84 +302,35 @@ These conversations can used to start additional activities. For example, a user
 
 Part 2 of 3
 
+Notes:
+In Part 1, we learned that writing is useful when it helps to achieve goals. In Part 2, we will learn how to make writing usable.
 
 
-## Conversational Design
 
-Erika Hall (2018)
+## Usability
 
-![Cover for the book Conversational Design by Erika Hall](assets/conversational-design-book.webp)
+- Can you do this?
+- How well can you do this?
 
 Notes:
-In the book Conversational Design, Erika Hall outlines eight design principles we can follow to make our digital systems more conversational.
+Usability is based on two questions. First: Can you do this? Second: How well can you do this?
 
 
 
-## Design principles
+## Accessibility
 
-3. Context-aware (responsible)
-4. Quick and clear (usable)
-5. Turn-based (usable)
-6. Truthful (responsible)
-7. Polite (responsible)
-8. Error-tolerant (responsible)
+1. Perceivable: "it can't be invisible to all of their senses"
+2. Operable: "the interface cannot require interaction that a user cannot perform"
+3. Understandable: "the content or operation cannot be beyond their understanding"
+4. Robust: "as technologies and user agents evolve, the content should remain accessible"
 
 Notes:
-According to these principles, a conversation with an interface or digital system should be: cooperative, goal-oriented, context-aware, quick and clear, turn-based, truthful, polite, and error-tolerant. I'll go through each of these in more detail, with examples. I will also invite you to share any relevant experiences you've had.
+Four principles of accessibility.
+https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html
 
 
 
-## 3. Context-aware
-
-Sensitive to time, place, preferences
-
-> **Phone notification:** Would you like to automatically turn on Silent Mode when you arrive at the movie theater?
-
-Notes:
-Third, the system should be context-aware. It should be sensitive to circumstances, such as time of day, location of the user, and any preferences the user has set. For example, a person's phone may be aware that they are going to a movie theater this evening, according to their calendar. Before leaving, the phone asks if silent mode should be turned on once they arrive, in order to avoid disturbing others during the movie.
-
-
-
-## (Not context-aware)
-
-Generic, insensitive, assumptions
-
-> **Email:** Exciting news! You have been invited to "Celebrating the life of Jack." RSVP now!
-
-Notes:
-In contrast, a system can cause emotional distress if it does not tailor messaging for the situation. For example, an event platform that assumes that all events are a joyous occasion is insensitive to situations like a memorial arranged for friends and family of someone who recently died.
-
-https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
-
-What experiences have you had (context-aware or not context-aware)?
-
-
-
-## 4. Quick and clear
-
-To the point
-
-> **Alert:** Document saved
-
-Notes:
-Fourth, a system should be quick and clear with its messaging. For example, after the user saves a document, an alert displays that just states, "Document saved." That's sufficient to inform the person that they're not going to lose their progress.
-
-
-
-## (Not quick and clear)
-
-Ambiguous
-
-> **Alert:** System Error 5023
-
-Notes:
-In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
-
-What experiences have you had (quick and clear or not quick and clear)?
-
-
-
-## 5. Turn-based
+## Turn-based
 
 Clarity regarding who should respond
 
@@ -411,76 +362,27 @@ What experiences have you had (turn-based or not turn-based)?
 
 
 
-## 6. Truthful
+## Quick and clear
 
-Credible, verifiable, not confusing
+To the point
 
-> **Email from charity:**  
-> Thank you for donating! We will email you quarterly reports detailing how your money is benefiting the cause.
-
-Notes:
-Sixth, a system should be truthful. What it says should be credible, verifiable, and not confusing. For example, a person who just donated to a charity received an email. It states, "Thank you for donating! We will email you quarterly reports detailing how your money is benefiting the cause." The message confirms the donation, but it also provides a way for the person to verify that the donation will be used as they intended. This gives the person confidence, which encourages them to continue their relationship with the charity.
-
-
-
-## (Not truthful)
-
-Expectation does not meet reality
-
-> - **Note from ISP:** Sorry we missed you! Call this number to talk with us.
-> - **Customer:** (Calls phone number.) Is this my internet service provider?
-> - **Person called:** Why am I still getting these calls!? Wrong number!
+> **Alert:** Document saved
 
 Notes:
-In contrast, a system is not truthful if the expectation does not align with reality. In this example, a customer could not immediately respond to a knock on the door. The technician they were expecting left a note that printed a phone number to call. The customer calls it, but instead of reaching anyone associated with the service provider, it called an unrelated personal phone number. The printed phone number was incorrect, and has been incorrect for months. This typo has made it frustrating for both you and this other person.
-
-What experiences have you had (truthful or not truthful)?
+Fourth, a system should be quick and clear with its messaging. For example, after the user saves a document, an alert displays that just states, "Document saved." That's sufficient to inform the person that they're not going to lose their progress.
 
 
 
-## 7. Polite
+## (Not quick and clear)
 
-Respect time, anticipate needs
+Ambiguous
 
-> 
-
-
-
-## (Not polite)
-
-Wastes time, rude
-
-> - **Popup:** Spin this wheel to win!
-> - **Person:** I'm just trying to read this article! I can't find the close button!
-
-
-
-## 8. Error-tolerant
-
-Anticipates errors, recovers seamlessly
-
-> - **A:** Turn right on Main St in two blocks.
-> - **B:** Main St is in three blocks. Is the turn at Main St or in three blocks?
-
-
-
-## (Not error-tolerant)
-
-> - Technician arrives early, while customer is returning home.
-> - Knocks on door, to no answer.
-> - Leaves before appointment time.
+> **Alert:** System Error 5023
 
 Notes:
-In contrast, a system is not error-tolerant if the expectation does not align with reality. In this example, a customer arrived home a couple minutes before a technician from their internet service provider was scheduled to arrive. They read a note on their door claiming the technician a
+In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
 
-
-
-# Part 2
-
-Make writing concise
-
-Notes:
-…
+What experiences have you had (quick and clear or not quick and clear)?
 
 
 
@@ -520,36 +422,121 @@ Progressively reveal content with disclosures or links to other pages.
 
 
 
-# Part 3
-
-Make writing clear
-
-Notes:
-…
-
-
-
 ## Consistency
 
 Just like how conciseness has tension with precision, clarity has tension with consistency. Prioritize clarity over consistency.
 
 
 
-# Part 4
-
-Make writing inclusive
+# Make writing responsible
 
 Notes:
 …
 
 
 
-# Part 5
+## Context-aware
 
-Make writing human
+Sensitive to time, place, preferences
+
+> **Phone notification:** Would you like to automatically turn on Silent Mode when you arrive at the movie theater?
 
 Notes:
-…
+Third, the system should be context-aware. It should be sensitive to circumstances, such as time of day, location of the user, and any preferences the user has set. For example, a person's phone may be aware that they are going to a movie theater this evening, according to their calendar. Before leaving, the phone asks if silent mode should be turned on once they arrive, in order to avoid disturbing others during the movie.
+
+
+
+## (Not context-aware)
+
+Generic, insensitive, assumptions
+
+> **Email:** Exciting news! You have been invited to "Celebrating the life of Jack." RSVP now!
+
+Notes:
+In contrast, a system can cause emotional distress if it does not tailor messaging for the situation. For example, an event platform that assumes that all events are a joyous occasion is insensitive to situations like a memorial arranged for friends and family of someone who recently died.
+
+https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
+
+What experiences have you had (context-aware or not context-aware)?
+
+
+
+## Truthful
+
+Credible, verifiable, not confusing
+
+> **Email from charity:**  
+> Thank you for donating! We will email you quarterly reports detailing how your money is benefiting the cause.
+
+Notes:
+Sixth, a system should be truthful. What it says should be credible, verifiable, and not confusing. For example, a person who just donated to a charity received an email. It states, "Thank you for donating! We will email you quarterly reports detailing how your money is benefiting the cause." The message confirms the donation, but it also provides a way for the person to verify that the donation will be used as they intended. This gives the person confidence, which encourages them to continue their relationship with the charity.
+
+
+
+## (Not truthful)
+
+Expectation does not meet reality
+
+> - **Note from ISP:** Sorry we missed you! Call this number to talk with us.
+> - **Customer:** (Calls phone number.) Is this my internet service provider?
+> - **Person called:** Why am I still getting these calls!? Wrong number!
+
+Notes:
+In contrast, a system is not truthful if the expectation does not align with reality. In this example, a customer could not immediately respond to a knock on the door. The technician they were expecting left a note that printed a phone number to call. The customer calls it, but instead of reaching anyone associated with the service provider, it called an unrelated personal phone number. The printed phone number was incorrect, and has been incorrect for months. This typo has made it frustrating for both you and this other person.
+
+What experiences have you had (truthful or not truthful)?
+
+
+
+## Polite
+
+Respect time, anticipate needs
+
+> 
+
+
+
+## (Not polite)
+
+Wastes time, rude
+
+> - **Popup:** Spin this wheel to win!
+> - **Person:** I'm just trying to read this article! I can't find the close button!
+
+
+
+## Error-tolerant
+
+Anticipates errors, recovers seamlessly
+
+> - **A:** Turn right on Main St in two blocks.
+> - **B:** Main St is in three blocks. Is the turn at Main St or in three blocks?
+
+
+
+## (Not error-tolerant)
+
+> - Technician arrives early, while customer is returning home.
+> - Knocks on door, to no answer.
+> - Leaves before appointment time.
+
+Notes:
+In contrast, a system is not error-tolerant if the expectation does not align with reality. In this example, a customer arrived home a couple minutes before a technician from their internet service provider was scheduled to arrive. They read a note on their door claiming the technician a
+
+
+
+# Resources
+
+
+
+## Conversational Design
+
+Erika Hall (2018)
+
+![Cover for the book Conversational Design by Erika Hall](assets/conversational-design-book.webp)
+
+Notes:
+In the book Conversational Design, Erika Hall outlines eight design principles we can follow to make our digital systems more conversational.
 
 
 
