@@ -110,24 +110,8 @@ Writing should be useful.
 
 Help both people and systems meet their goals
 
-> - Person reads The Home Depot's [*How to Hang Drywall* guide](https://www.homedepot.com/c/ah/how-to-hang-drywall/9ba683603be9fa5395fab90cbb4826d).
-> - Person purchases related products.
-
 Notes:
 Words that are useful serve a purpose. In product design, that purpose should be to help people and systems meet their goals and solve their problems.
-
-Second, the system should be goal-oriented. Both the person and the system should be able to meet their own goals. For example, a home owner wants to hang drywall for the first time. This requires knowledge, materials, and tools. They discover Home Depot has a guide to walk through this project with videos and written instructions. They've gained knowledge, but the page also lists the materials and tools that they may need. These product pages then display the aisle and bay that they are located in the customer's local store. In summary, the store aims to gain a loyal customer (and their money) by making it easy for the customer to learn about and complete their projects.
-
-
-
-## (Not goal-oriented)
-
-One-sided or no-sided
-
-> - 
-
-Notes:
-What experiences have you had (goal-oriented or not goal-oriented)?
 
 
 
@@ -137,35 +121,6 @@ Work together to meet individual goals
 
 Notes:
 Many goals can't be solved alone. It requires cooperation. People and systems must work together, so they can meet their individual goals.
-
-
-
-## Cooperative
-
-Reduce required effort and upfront knowledge
-
-> - **Waiter:** Would you like wheat bread or gluten-free bread?
-> - **Customer:** Wheat, please.
-> - **Waiter:** Great.
-
-Notes:
-First, the system should be cooperative. It should reduce the amount of effort or upfront knowledge that a user needs. In this example, the waiter says, "Would you like wheat bread or gluten-free bread?" The customer responds, "Wheat, please." The waiter confirms, "Great." In this case, the waiter states upfront the options available to the customer. The customer can provide a simple response by selecting one of those options.
-
-
-
-## (Not cooperative)
-
-Requires effort or upfront knowledge
-
-> - **Customer:** Can you call me when this table is back in stock?
-> - **Furniture rep:** No.
-> - **Customer:** Then what should I do?
-> - **Furniture rep:** Check back later.
-
-Notes:
-In contrast, an exchange could be not cooperative. In this example, a customer asks, "Can you call me when this table is back in stock?" The representative of furniture company replies bluntly, "No." The rep does not offer any further options. This requires the customer to follow up with, "Then what should I do?" The rep coldly replies, "Check back later." This unhelpful exchange was frustrating for the customer, and it will demand even more of their time and effort, if they really want that table.
-
-What experiences have you had (cooperative or not cooperative)?
 
 
 
@@ -196,36 +151,150 @@ A more common form of this meaningful exchange happens when two people engage in
 
 
 
-## Exercise
+## Make it easy
 
-Have a meaningful conversation
+Reduce required effort and upfront knowledge
 
-1. Select situation and roles.
-2. Write down goals for your role.
-3. Select principle or anti-principle.
-4. Role-play the conversation.
-5. Write down as text message exchange.
-6. Build a user journey.
-7. Build wireframes.
+Notes:
+One way to be cooperative and have a meaningful exchange is to make the process easier on the other. One may have a means of reducing the required effort or upfront knowledge that the other needs to engage in the exchange.
 
 
 
-## Situations
+## Be cooperative
 
-1. Customer orders pizza for delivery.
-2. Customer schedules haircut.
-3. Customer calls customer service about broken microwave.
-4. Customer talks with post office rep about a missing package.
-5. Friend invites you to their birthday party.
-6. Friend asks you to care for their pet this weekend.
+> - **Waiter:** Would you like wheat bread or gluten-free bread?
+> - **Customer:** Wheat, please.
+> - **Waiter:** Great.
+
+Notes:
+In this example, the waiter says, "Would you like wheat bread or gluten-free bread?" The customer responds, "Wheat, please." The waiter confirms, "Great." In this case, the waiter states upfront the options available to the customer. The customer can provide a simple response by selecting one of those options.
 
 
 
-## Customer orders pizza for delivery.
+## Don't be uncooperative
 
-1. Rep fails to explain options.
-2. Rep gives incorrect delivery time.
-3. Customer gives incorrect credit card number.
+> - **Customer:** Can you call me when this table is back in stock?
+> - **Furniture rep:** No.
+> - **Customer:** Then what should I do?
+> - **Furniture rep:** Check back later.
+
+Notes:
+In contrast, an exchange could be uncooperative. In this example, a customer asks, "Can you call me when this table is back in stock?" The representative of furniture company replies bluntly, "No." The rep does not offer any further options. This requires the customer to follow up with, "Then what should I do?" The rep coldly replies, "Check back later." This unhelpful exchange was frustrating for the customer, and it will demand even more of their time and effort, if they really want that table.
+
+
+
+## Mutual benefits
+
+> - Person reads The Home Depot's [*How to Hang Drywall* guide](https://www.homedepot.com/c/ah/how-to-hang-drywall/9ba683603be9fa5395fab90cbb4826d).
+> - Person purchases related products.
+
+Notes:
+Now for an example with a system. A home owner wants to hang drywall for the first time. This requires knowledge, materials, and tools. They discover Home Depot has an online guide to walk through this project with videos and written instructions. They've gained knowledge, but the page also lists the materials and tools that they may need. These product pages then display the aisle and bay that they are located in the customer's local store. In summary, the store aims to gain a loyal customer (and their money) by making it easy for the customer to learn about and complete their projects. Both the customer and the store benefits by this exchange.
+
+
+
+## Share your experience
+
+- **Who:** Person and person/system
+- **What:** Working together
+- **Why:** Achieve goals
+
+Notes:
+Now, I'd like to hear from you. Think about an experience you've had or know about, that involves a person and another person or a person and a system. How are they trying to work together to achieve their respective goals? Did that work out?
+
+
+
+## Write a meaningful conversation
+
+5-minute activity
+
+1. Select roles and goals of two people.
+2. Write their conversation as a text message.
+3. Finish when both sides achieve their goals.
+
+Notes:
+Now, let's spend a few minutes on an activity. 
+
+
+
+## Example situation
+
+- **Customer:** Wants dinner to be delivered for family of four.
+- **Pizza rep:** Wants to decrease time per order.
+
+
+
+## Example conversation
+
+> - **Pizza rep:** Welcome to Pizza Planet. Is this for pickup or delivery?
+> - **Customer:** Delivery, please.
+> - **Pizza rep:** I see from your phone number that you've ordered from us last month. Would you like the same order or something different?
+
+
+
+> - **Customer:** Yes, I'd like same thing. I believe it was a large with three toppings and breadsticks.
+> - **Pizza rep:** Yes, it was a large with feta, garlic, and pineapple. The breadsticks came with cheese sauce.
+> - **Customer:** That sounds perfect. Let's just go with that.
+
+
+
+> - **Pizza rep:** That will be $26.50, with tax and delivery fee included. Do you want to pay with your credit card on file or at time of delivery?
+> - **Customer:** I'll pay upon delivery.
+> - **Pizza rep:** It should be delivered to your address on file in about 20 minutes. Would you like to receive text message updates to track the delivery?
+> - **Customer:** Sure!
+
+
+
+> - **Pizza rep:** Is there anything else I can help you with?
+> - **Customer:** No, that will be all. Thank you!
+
+
+
+## Start activity
+
+Sample situations:
+
+1. Customer schedules haircut.
+2. Customer calls customer service about broken microwave.
+3. Customer talks with post office rep about a missing package.
+4. Friend invites you to their birthday party.
+5. Friend asks you to care for their pet this weekend.
+
+
+
+## Discuss activity
+
+
+
+## Activity variations
+
+Change:
+
+- Time, place, environment
+- Mental/physical impairments
+- Outcome
+
+Notes:
+This activity could be adapted in any number of ways. You could see how the time, place, or environment may affect the conversation; how any mental or physical impairments may affect the conversation; or make it so  or mental state of one or both person affects the conversation; or alter the outcome so that maybe only one or none of their goals are met.
+
+
+
+## Variations on pizza order
+
+1. Pizza rep is unaware that they're out of pineapple.
+2. Pizza rep gives incorrect delivery time.
+3. Customer forgot to update delivery address since their move.
+4. Customer makes call in a loud room in the house.
+
+
+
+## Activity expansions
+
+1. Build a user journey.
+2. Sketch wireframes.
+
+Notes:
+These conversations can used to start additional activities. For example, a user journey is 
 
 
 
@@ -248,8 +317,6 @@ In the book Conversational Design, Erika Hall outlines eight design principles w
 
 ## Design principles
 
-1. Cooperative (useful)
-2. Goal-oriented (useful)
 3. Context-aware (responsible)
 4. Quick and clear (usable)
 5. Turn-based (usable)
