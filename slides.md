@@ -156,7 +156,7 @@ A more common form of this meaningful exchange happens when two people engage in
 Reduce required effort and upfront knowledge
 
 Notes:
-One way to be cooperative and have a meaningful exchange is to make the process easier on the other. One may have a means of reducing the required effort or upfront knowledge that the other needs to engage in the exchange.
+One way to be cooperative and have a meaningful exchange is to make the process easier for the other. One may have a means of reducing the required effort or upfront knowledge that the other needs to engage in the exchange.
 
 
 
@@ -167,7 +167,7 @@ One way to be cooperative and have a meaningful exchange is to make the process 
 > - **Waiter:** Great.
 
 Notes:
-In this example, the waiter says, "Would you like wheat bread or gluten-free bread?" The customer responds, "Wheat, please." The waiter confirms, "Great." In this case, the waiter states upfront the options available to the customer. The customer can provide a simple response by selecting one of those options.
+People in a conversation should be cooperative. In this example, the waiter says, "Would you like wheat bread or gluten-free bread?" The customer responds, "Wheat, please." The waiter confirms, "Great." In this case, the waiter states upfront the options available to the customer. The customer can provide a simple response by selecting one of those options.
 
 
 
@@ -179,7 +179,7 @@ In this example, the waiter says, "Would you like wheat bread or gluten-free bre
 > - **Furniture rep:** Check back later.
 
 Notes:
-In contrast, an exchange could be uncooperative. In this example, a customer asks, "Can you call me when this table is back in stock?" The representative of furniture company replies bluntly, "No." The rep does not offer any further options. This requires the customer to follow up with, "Then what should I do?" The rep coldly replies, "Check back later." This unhelpful exchange was frustrating for the customer, and it will demand even more of their time and effort, if they really want that table.
+In contrast, people in a conversation could be uncooperative. In this example, a customer asks, "Can you call me when this table is back in stock?" The representative of the furniture company replies bluntly, "No." The rep does not offer any further options. This requires the customer to follow up with, "Then what should I do?" The rep coldly replies, "Check back later." This unhelpful exchange was frustrating for the customer, and it will demand even more of their time and effort, if they really want that table.
 
 
 
@@ -189,7 +189,7 @@ In contrast, an exchange could be uncooperative. In this example, a customer ask
 > - Person purchases related products.
 
 Notes:
-Now for an example with a system. A home owner wants to hang drywall for the first time. This requires knowledge, materials, and tools. They discover Home Depot has an online guide to walk through this project with videos and written instructions. They've gained knowledge, but the page also lists the materials and tools that they may need. These product pages then display the aisle and bay that they are located in the customer's local store. In summary, the store aims to gain a loyal customer (and their money) by making it easy for the customer to learn about and complete their projects. Both the customer and the store benefits by this exchange.
+Now for an example with a system. A home owner wants to hang drywall for the first time. This requires knowledge, materials, and tools. They discover Home Depot has an online guide to walk through this project with videos and written instructions. They've gained knowledge, but the page also lists the materials and tools that they may need. These product pages then display where to find the product in the customer's local store. In summary, the store aims to gain a loyal customer (and their money) by making it easy for the customer to learn about and complete their projects. Both the customer and the store benefit by this exchange.
 
 
 
@@ -213,14 +213,17 @@ Now, I'd like to hear from you. Think about an experience you've had or know abo
 3. Finish when both sides achieve their goals.
 
 Notes:
-Now, let's spend a few minutes on an activity. This should take no more than 5 minutes. This can be done alone or with someone else. The goal is to role-play a meaningful conversation. Select roles for the two people in the conversation, along with their individual goals. If you are doing this activity with another person, then each person can act as one of the people. Take turns and have each person respond to the other.
+Now, let's spend up to five minutes on an activity. The goal is to role-play a meaningful conversation as if you're chatting over text. Select roles for the two people in the conversation, along with their individual goals. Finish when both sides achieve their goals. If done alone, then you just write down the full conversation. If done with someone else, then just act as one of the two people in the conversation. After the time concludes, we will discuss the activity.
 
 
 
 ## Example situation
 
 - **Customer:** Wants dinner to be delivered for family of four.
-- **Pizza rep:** Wants to decrease time per order.
+- **Pizza rep:** Wants to orders to be efficient and friendly.
+
+Notes:
+Here's an example situation. The first person is the customer. They want dinner to be delivered for their family of four. The second person is a representative of a local pizza restaurant. They want to make a conversation be as efficient and friendly as possible. These "wants" are their goals for this conversation.
 
 
 
@@ -229,6 +232,9 @@ Now, let's spend a few minutes on an activity. This should take no more than 5 m
 > - **Pizza rep:** Welcome to Pizza Planet. Is this for pickup or delivery?
 > - **Customer:** Delivery, please.
 > - **Pizza rep:** I see from your phone number that you've ordered from us last month. Would you like the same order or something different?
+
+Notes:
+Now, I'll read through the conversation…
 
 
 
@@ -248,6 +254,9 @@ Now, let's spend a few minutes on an activity. This should take no more than 5 m
 > - **Pizza rep:** Is there anything else I can help you with?
 > - **Customer:** No, that will be all. Thank you!
 
+Notes:
+There are countless ways this conversation could be played out. There is no right or wrong outcome for the purpose of this activity. But don't focus on editing or refining the content of the conversation. Once you say something out loud, you can't un-say it. So just start and work forward.
+
 
 
 ## Start activity
@@ -255,8 +264,8 @@ Now, let's spend a few minutes on an activity. This should take no more than 5 m
 Sample situations:
 
 1. Customer schedules haircut.
-2. Customer calls customer service about broken microwave.
-3. Customer talks with post office rep about a missing package.
+2. Customer buys corn at the farmers market.
+3. Customer asks post office about missing package.
 4. Friend invites you to their birthday party.
 5. Friend asks you to care for their pet this weekend.
 
