@@ -254,20 +254,40 @@ Now, I'll read through the conversation…
 > - **Pizza rep:** Is there anything else I can help you with?
 > - **Customer:** No, that will be all. Thank you!
 
+
+
+## Variations on pizza order
+
+1. Pizza rep is unaware that they're out of pineapple.
+2. Pizza rep gives incorrect delivery time.
+3. Customer forgot to update delivery address since their move.
+4. Customer makes call in a loud room in the house.
+
 Notes:
-There are countless ways this conversation could be played out. There is no right or wrong outcome for the purpose of this activity. But don't focus on editing or refining the content of the conversation. Once you say something out loud, you can't un-say it. So just start and work forward.
+There are countless ways this conversation could be played out. For example: [Read the variations.] There is no right or wrong outcome for the purpose of this activity. But don't focus on editing or refining the content of the conversation. Once you say something out loud, you can't un-say it. So just start and work forward.
 
 
 
-## Start activity
-
-Sample situations:
+## Sample situations
 
 1. Customer schedules haircut.
 2. Customer buys corn at the farmers market.
 3. Customer asks post office about missing package.
 4. Friend invites you to their birthday party.
 5. Friend asks you to care for their pet this weekend.
+
+Notes:
+You could use the pizza ordering situation as the basis for your activity. Or you could use one of these provided on this slide. [Read off samples.] Or, you could invent your own.
+
+[Perhaps everyone votes to select a situation that everyone does.]
+
+Any questions before we start?
+
+
+
+## Start activity
+
+5 minutes
 
 
 
@@ -285,15 +305,6 @@ Change:
 
 Notes:
 This activity could be adapted in any number of ways. You could see how the time, place, or environment may affect the conversation; how any mental or physical impairments may affect the conversation; or make it so  or mental state of one or both person affects the conversation; or alter the outcome so that maybe only one or none of their goals are met.
-
-
-
-## Variations on pizza order
-
-1. Pizza rep is unaware that they're out of pineapple.
-2. Pizza rep gives incorrect delivery time.
-3. Customer forgot to update delivery address since their move.
-4. Customer makes call in a loud room in the house.
 
 
 
