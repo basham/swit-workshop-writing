@@ -391,7 +391,7 @@ design best practices.
 
 
 
-## Write chronologically
+## Use chronological words
 
 | Spatial | Chronological |
 | --- | --- |
