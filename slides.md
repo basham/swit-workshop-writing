@@ -337,16 +337,125 @@ Usability is based on two questions. First: Can you do this? Second: How well ca
 
 
 
-## Accessibility
+## Usable writing
 
-1. Perceivable: "it can't be invisible to all of their senses"
-2. Operable: "the interface cannot require interaction that a user cannot perform"
-3. Understandable: "the content or operation cannot be beyond their understanding"
-4. Robust: "as technologies and user agents evolve, the content should remain accessible"
+- Can you read and understand this?
+- How well can you read and understand this?
+
+
+
+## Accessible words
+
+> …if the words you write for something aren't accessible to everyone, then you've made a design choice that prevents people from using that thing.
+>
+> — *Writing is Designing* (2020)
+
+
+
+## Can you read this?
+
+- Text contrast
+- Text alternatives
+
+
+
+## Can you understand this?
+
+- Headings and landmarks
+- Reading level
+
+
+
+## Comprehension
+
+- Sighted reader: 2–5 words per second
+- Screen reader: 35 syllables per second
+
+> Don’t be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
+>
+> — *Writing is Designing* (2020)
 
 Notes:
-Four principles of accessibility.
-https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html
+According to the book *Writing is Designing*: The average reading time for sighted readers is two to five words per second. Screen-reader users can comprehend text being read at an average of 35 syllables per second, which is significantly faster. Don't be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
+
+
+
+## Skimming
+
+> People want to be able to skim long blocks of text, regardless of
+sight or audio, so it's extremely important to structure your long-
+form writing with headers, short paragraphs, and other content
+design best practices.
+>
+> — *Writing is Designing* (2020)
+
+
+
+## Write chronologically
+
+| Spatial | Chronological |
+| --- | --- |
+| Top | Beginning |
+| Bottom | End |
+| Left | Before |
+| Right | After |
+
+
+
+## Place critical info before a decision point
+
+> New password: **abc123**
+>
+> *Password must include a symbol*
+
+
+
+## Describe the action
+
+- **Device dependent:** Click, Tap, Press, See
+- **Device independent:** Choose, Select, Use, View
+
+Notes:
+In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
+
+
+
+## Text alternatives
+
+- Images: Alt text
+- Video: Captions and transcripts
+
+
+
+## "Click here"
+
+| Bad | Good |
+| --- | --- |
+| [Learn more](#) about grow bag gardening | [Grow bag gardening](#) |
+| Tap the Search icon in the upper nav | Use [Search](#) to find gardening tutorials |
+
+
+
+## Plain language
+
+> It's not dumbing down. It's opening up.
+>
+> — Sarah Richards, *Content Design* (2019)
+
+Notes:
+> In her book, Richards pointed out that you can make writing more
+accessible and usable through plain language that people with a vari-
+ety of reading levels can understand. This practice helps cognitively
+disabled users, those who have recently learned the language you’re
+writing in, and even people who are stressed.
+
+
+
+## Inclusive language
+
+> If the language you use tells a potential user that *you didn't think about their experience when building this thing*, they're not going to use it.
+
+— *Writing is Designing* (2020)
 
 
 
