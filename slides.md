@@ -5,7 +5,7 @@ Statewide IT 2024 Workshop
 Chris Basham
 
 Notes:
-Welcome everyone to this workshop. The words we use and how we use them in apps and websites should solve problems, not create them. Today, we will learn through practical exercises how to make content purposeful, concise, clear, and inclusive. You'll come away with strategies to integrate user experience writing principles and practices into your team's iterative process. First, let's start with some background and logistics.
+Welcome everyone to this workshop, Writing for Product Teams.
 
 
 
@@ -13,87 +13,61 @@ Welcome everyone to this workshop. The words we use and how we use them in apps 
 
 csbasham@iu.edu
 
-UX designer in Enterprise Systems.
-
-*Accessibility. Front-end dev. Design systems.*
+UX designer in Enterprise Systems
 
 Notes:
-I'm Chris Basham. I've worked at Indiana University since 2012, as a UX designer and front-end developer, working on various web software products. Today, I want to share with you a topic I've been studying and practicing over the last couple years.
+I'm Chris Basham. I've worked as a user experience designer and front-end developer in the Enterprise Systems division of UITS since 2012. I've been on many development teams, building many custom web apps.
 
 
 
-## Resources
+## Product teams solve problems
 
-https://github.com/basham/swit-workshop-writing
-
-Notes:
-All resources for this workshop, including slides, slide notes, and links, are located on GitHub. This link is posted in the Zoom chat.
-
-
-
-## Zoom etiquette
-
-- Raise your hand.
-- Submit questions in chat.
-- Mute when you're not talking.
+Words are means of solving problems
 
 Notes:
-If you have any questions at any time, please use Zoom to raise your hand or post questions in the Zoom chat. If you're not talking, please mute your microphone.
+Product teams solve problems. This workshop is about being intentional with the words we use in our products so that they solve problems instead of create them.
 
 
 
-# UX writing
+## UX writing
 
-Words that solve problems
+The practice of using words to solve problems
+
+Notes:
+UX writing is the practice of using words to solve problems in digital products. You don't have to be a "designer" or a "writer" to get value from this workshop. This workshop is for any team member who has influece over the words that are used or how they are used.
+
+
+
+## Books on UX writing
+
+- [*Writing Is Designing* (2020)](https://www.amazon.com/dp/1933820667/)
+- [*Strategic Writing for UX* (2019)](https://www.amazon.com/dp/1492049395/)
+- [*Conversational Design* (2018)](https://www.amazon.com/dp/1937557677/)
+
+Notes:
+Last spring, I mentored an intern whose focus was UX writing. We studied three books and practiced what we learned. The books in order of value to us were: Writing Is Designing from 2020, Strategic Writing for UX from 2019, and Conversational Design from 2018. Many ideas for this workshop are borrowed from these sources.
 
 
 
 ## "We need words"
 
-> …is not the problem that we solve as UX writers. We
-communicate. We invite action. We inspire loyalty. Our teams need to
-know that UX writing can be used to solve problems.
+> …is not the problem that we solve as UX writers. We communicate. We invite action. We inspire loyalty. Our teams need to know that UX writing can be used to solve problems.
+>
+> — *Strategic Writing for UX* (2019)
 
-— *Strategic Writing for UX*
+Notes:
+"We need words is not the problem that we solve as UX writers," according to the book "Strategic Writing for UX." "We communicate. We invite action. We inspire loyalty. Our teams need to know that UX writing can be used to solve problems.
 
 
 
 ## Words should be…
 
-1. Useful (why)
-2. Usable (how, what)
-3. Responsible (when, who)
-
-
-
-## Process
-
-Editing
-
-
-
-## Iterative
-
-> Writing UX text is iterative, starting with less-than-perfect words, then
-replacing those words with slightly better words, and repeating until
-you find the best words. This is the way to make the text purposeful
-and protective, but also concise, conversational, and recognizable as
-coming from the organization’s brand.
-
-— *Strategic Writing for UX*
-
-
-
-## Make writing…
-
-1. Conversational
-2. Concise (usable)
-3. Clear (usable)
-4. Inclusive (responsible)
-5. Human
+1. Useful
+2. Usable
+3. Responsible
 
 Notes:
-…
+How do we do this? The words we use in digital products should be useful, usable, and responsible. In this workshop, we will learn through examples and activities how to make our writing useful, usable, and responsible.
 
 
 
@@ -102,7 +76,7 @@ Notes:
 Part 1 of 3
 
 Notes:
-Writing should be useful.
+Part 1. Writing should be useful.
 
 
 
@@ -111,7 +85,7 @@ Writing should be useful.
 Help both people and systems meet their goals
 
 Notes:
-Words that are useful serve a purpose. In product design, that purpose should be to help people and systems meet their goals and solve their problems.
+Words that are useful serve a purpose. They are goal-oriented. In product design, that purpose should be to help people and systems meet their goals and solve their problems.
 
 
 
@@ -167,7 +141,7 @@ One way to be cooperative and have a meaningful exchange is to make the process 
 > - **Waiter:** Great.
 
 Notes:
-People in a conversation should be cooperative. In this example, the waiter says, "Would you like wheat bread or gluten-free bread?" The customer responds, "Wheat, please." The waiter confirms, "Great." In this case, the waiter states upfront the options available to the customer. The customer can provide a simple response by selecting one of those options.
+This happens when people in a conversation are cooperative. In this example, the waiter says, "Would you like wheat bread or gluten-free bread?" The customer responds, "Wheat, please." The waiter confirms, "Great." In this case, the waiter states upfront the options available to the customer. The customer can provide a simple response by selecting one of those options.
 
 
 
@@ -179,7 +153,7 @@ People in a conversation should be cooperative. In this example, the waiter says
 > - **Furniture rep:** Check back later.
 
 Notes:
-In contrast, people in a conversation could be uncooperative. In this example, a customer asks, "Can you call me when this table is back in stock?" The representative of the furniture company replies bluntly, "No." The rep does not offer any further options. This requires the customer to follow up with, "Then what should I do?" The rep coldly replies, "Check back later." This unhelpful exchange was frustrating for the customer, and it will demand even more of their time and effort, if they really want that table.
+In contrast, a conversation can be difficult when there isn't cooperation. In this example, a customer asks, "Can you call me when this table is back in stock?" The representative of the furniture company replies bluntly, "No." The rep does not offer any further options. This requires the customer to follow up with, "Then what should I do?" The rep coldly replies, "Check back later." This unhelpful exchange was frustrating for the customer, and it will demand even more of their time and effort, if they really want that table.
 
 
 
@@ -344,6 +318,24 @@ Usability is based on two questions. First: Can you do this? Second: How well ca
 
 
 
+## Process
+
+Editing
+
+
+
+## Iterative
+
+> Writing UX text is iterative, starting with less-than-perfect words, then
+replacing those words with slightly better words, and repeating until
+you find the best words. This is the way to make the text purposeful
+and protective, but also concise, conversational, and recognizable as
+coming from the organization’s brand.
+
+— *Strategic Writing for UX*
+
+
+
 ## Accessible words
 
 > …if the words you write for something aren't accessible to everyone, then you've made a design choice that prevents people from using that thing.
@@ -382,12 +374,14 @@ According to the book *Writing is Designing*: The average reading time for sight
 
 ## Skimming
 
-> People want to be able to skim long blocks of text, regardless of
-sight or audio, so it's extremely important to structure your long-
-form writing with headers, short paragraphs, and other content
-design best practices.
->
-> — *Writing is Designing* (2020)
+Structure content with:
+
+- Headings
+- Landmarks
+- Short paragraphs
+
+Notes:
+Skimming is a behavior that is used whether you are sighted or not or whether you have a mental impairment or not. Break up content with headings, landmarks, and short paragraphs to facilitate skimming.
 
 
 
@@ -399,6 +393,9 @@ design best practices.
 | Bottom | End |
 | Left | Before |
 | Right | After |
+
+Notes:
+Spatial words like top, bottom, left, and right are not appropriate for describing content that can be experienced in linear ways. For example, when a website is on a mobile device, all the content stacks vertically. And when a website is being announced by a screen reader, it reads the content linearly. Words like beginning, end, before, and after should be preferred, because they scale in more contexts.
 
 
 
@@ -448,14 +445,6 @@ accessible and usable through plain language that people with a vari-
 ety of reading levels can understand. This practice helps cognitively
 disabled users, those who have recently learned the language you’re
 writing in, and even people who are stressed.
-
-
-
-## Inclusive language
-
-> If the language you use tells a potential user that *you didn't think about their experience when building this thing*, they're not going to use it.
-
-— *Writing is Designing* (2020)
 
 
 
@@ -654,18 +643,20 @@ In contrast, a system is not error-tolerant if the expectation does not align wi
 
 
 
-# Resources
+## Inclusive language
+
+> If the language you use tells a potential user that *you didn't think about their experience when building this thing*, they're not going to use it.
+
+— *Writing is Designing* (2020)
 
 
 
-## Conversational Design
+## Resources
 
-Erika Hall (2018)
-
-![Cover for the book Conversational Design by Erika Hall](assets/conversational-design-book.webp)
+https://github.com/basham/swit-workshop-writing
 
 Notes:
-In the book Conversational Design, Erika Hall outlines eight design principles we can follow to make our digital systems more conversational.
+All resources for this workshop, including slides, slide notes, and links, are located on GitHub.
 
 
 

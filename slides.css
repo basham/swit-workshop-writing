@@ -4,6 +4,14 @@
 @import 'open-sans/open-sans.css';
 @import 'theme.css';
 
+.u-flex {
+	display: flex;
+}
+
+.u-grow {
+	flex-grow: 1;
+}
+
 /*
  * Figure: Impact map
  */
