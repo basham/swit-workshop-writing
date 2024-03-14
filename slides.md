@@ -301,53 +301,46 @@ In Part 1, we learned that writing is useful when it helps to achieve goals. In 
 
 
 
-## Usability
-
-- Can you do this?
-- How well can you do this?
-
-Notes:
-Usability is based on two questions. First: Can you do this? Second: How well can you do this?
-
-
-
 ## Usable writing
 
-- Can you read and understand this?
-- How well can you read and understand this?
+- Can you read this?
+- How well can you understand this?
+
+Notes:
+We can evaluate the usability of writing by addressing two primary questions. First: Can you read this? Second: How well can you understand this?
 
 
 
-## Process
+## WCAG
 
-Editing
+Web Content Accessibility Guidelines
 
+[WCAG 2.1 Understanding Docs](https://www.w3.org/WAI/WCAG21/Understanding/)
 
-
-## Iterative
-
-> Writing UX text is iterative, starting with less-than-perfect words, then
-replacing those words with slightly better words, and repeating until
-you find the best words. This is the way to make the text purposeful
-and protective, but also concise, conversational, and recognizable as
-coming from the organization’s brand.
-
-— *Strategic Writing for UX*
-
-
-
-## Accessible words
-
-> …if the words you write for something aren't accessible to everyone, then you've made a design choice that prevents people from using that thing.
->
-> — *Writing is Designing* (2020)
+Notes:
+The Web Content Accessibility Guidelines (or WCAG) manages a robust set of guidelines pertaining to writing, among many other things. The "Understanding Docs" provides an approachable overview of the guidelines. This will help make our writing more usable.
 
 
 
 ## Can you read this?
 
-- Text contrast
-- Text alternatives
+- [1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content): Text alternatives
+- [1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color): Alternative to color
+- [1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum): Text contrast
+- [1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text): Text resize
+- [1.4.8](https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation): Line length/spacing
+- [1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow): Enlarge without requiring horizontal scrolling
+- [1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing): Don't cut off or overlap text
+
+Notes:
+
+
+
+## Text alternatives
+
+- Color
+- Images: Alt text
+- Audio/Video: Captions, descriptions, transcripts
 
 
 
@@ -417,13 +410,6 @@ In general, do not use words that describe the what the user should do with thei
 
 
 
-## Text alternatives
-
-- Images: Alt text
-- Video: Captions and transcripts
-
-
-
 ## "Click here"
 
 | Bad | Good |
@@ -445,6 +431,20 @@ accessible and usable through plain language that people with a vari-
 ety of reading levels can understand. This practice helps cognitively
 disabled users, those who have recently learned the language you’re
 writing in, and even people who are stressed.
+
+
+
+## Process
+
+Editing
+
+
+
+## Iterative
+
+> Writing UX text is iterative, starting with less-than-perfect words, then replacing those words with slightly better words, and repeating until you find the best words. This is the way to make the text purposeful and protective, but also concise, conversational, and recognizable as coming from the organization’s brand.
+>
+> — *Strategic Writing for UX*
 
 
 
