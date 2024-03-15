@@ -305,15 +305,24 @@ In Part 1, we learned that writing is useful when it helps to achieve goals. In 
 
 - Can you read this?
 - How well can you understand this?
+- Legible
+- Navigate
+- Readable
+- Predictable
+- Helpful
 
 Notes:
 We can evaluate the usability of writing by addressing two primary questions. First: Can you read this? Second: How well can you understand this?
+
+https://anchordigital.com.au/articles/read-between-the-lines-why-legibility-and-readability-is-essential-for-ux
 
 
 
 ## WCAG
 
 Web Content Accessibility Guidelines
+
+[Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
 
 [WCAG 2.1 Understanding Docs](https://www.w3.org/WAI/WCAG21/Understanding/)
 
@@ -325,29 +334,75 @@ The Web Content Accessibility Guidelines (or WCAG) manages a robust set of guide
 ## Can you read this?
 
 - [1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content): Text alternatives
-- [1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color): Alternative to color
+- [1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color): Not only color
 - [1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum): Text contrast
 - [1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text): Text resize
 - [1.4.8](https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation): Line length/spacing
-- [1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow): Enlarge without requiring horizontal scrolling
+- [1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow): Avert horizontal scrolling
 - [1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing): Don't cut off or overlap text
 
 Notes:
+Here are seven success criteria that WCAG makes that addresses the question, "Can you read this?" I'll briefly review these.
 
 
 
-## Text alternatives
+## [1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content): Text alternatives
 
-- Color
-- Images: Alt text
-- Audio/Video: Captions, descriptions, transcripts
+- Images/graphs: Alt text
+- Audio/video: Captions, descriptions, transcripts
+
+Notes:
+First, success criteria 1.1.1 is about text alternatives. Images that convey information should have a text description. Audio and video should have captions, descriptions, and transcripts. This provides alternative content for assistive technology like a screen reader or braille display. More information is available to users who may not be able to understand the content. Those who are not hard of hearing can still benefit from captions when in a noisy room or in a situation in which they're trying to be quiet.
 
 
 
-## Can you understand this?
+## [1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color): Not only color
 
-- Headings and landmarks
-- Reading level
+Complement color with visual alternative
+
+> Required fields displayed in red and marked with an asterisks (*)
+
+
+
+## Navigate text
+
+- [2.4.1](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks): Skip links
+- [2.4.2](https://www.w3.org/WAI/WCAG21/Understanding/page-titled): Page has title
+- [2.4.4](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context)/[2.4.9](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only): Link purpose
+- [2.4.6](https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels): Descriptive headings
+- [2.4.10](https://www.w3.org/WAI/WCAG21/Understanding/section-headings): Use headings to section content
+
+
+
+## Understandable text
+
+- Readable
+- Predictable
+- Helpful
+
+
+
+## Readable text
+
+- [3.1.1](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page): Language of page
+- [3.1.2](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts): Language of parts
+- [3.1.3](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words): Define unusual words
+- [3.1.4](https://www.w3.org/WAI/WCAG21/Understanding/
+abbreviations): Define abbreviations
+- [3.1.5](https://www.w3.org/WAI/WCAG21/Understanding/reading-level): Reading level
+- [3.1.6](https://www.w3.org/WAI/WCAG21/Understanding/pronunciation): Pronunciation
+
+
+
+## Predictable text
+
+- [3.2.4](https://www.w3.org/WAI/WCAG21/Understanding/consistent-identification): Consistent identification
+
+
+
+## Helpful text
+
+
 
 
 
