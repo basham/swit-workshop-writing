@@ -49,6 +49,19 @@ Last spring, I mentored an intern whose focus was UX writing. We studied three b
 
 
 
+## WCAG
+
+Web Content Accessibility Guidelines
+
+[Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
+
+[WCAG 2.1 Understanding Docs](https://www.w3.org/WAI/WCAG21/Understanding/)
+
+Notes:
+The Web Content Accessibility Guidelines (or WCAG) manages a robust set of guidelines pertaining to writing, among many other things. The "Understanding Docs" provides an approachable overview of the guidelines. This will be another primary source for content in this workshop.
+
+
+
 ## "We need words"
 
 > …is not the problem that we solve as UX writers. We communicate. We invite action. We inspire loyalty. Our teams need to know that UX writing can be used to solve problems.
@@ -292,12 +305,155 @@ These conversations can used to start additional activities. For example, a user
 
 
 
-# Make writing usable
+# Make writing legible
 
-Part 2 of 3
+Part 2 of ?
 
 Notes:
-In Part 1, we learned that writing is useful when it helps to achieve goals. In Part 2, we will learn how to make writing usable.
+In Part 1, we learned that writing is useful when it helps to achieve goals. In Part 2, we will learn how to make writing legible.
+
+
+
+## Can you read this?
+
+- Text alternatives
+- Not only color
+- Text contrast
+- Text resize
+- Avert horizontal scrolling
+- Line length/spacing
+- Don't cut off or overlap text
+
+Notes:
+Writing is legible if readers have the ability to distinguish the content in a text and perceive it as words and concepts.
+
+Here are seven success criteria that WCAG makes that addresses the question, "Can you read this?" I'll briefly review these.
+
+
+
+## Text alternatives
+
+- [WCAG 1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content) (Level A)
+- Images/graphs: Alt text
+- Audio/video: Captions, descriptions, transcripts
+
+```html
+<img
+	src="tomato.jpg"
+	alt="A cluster of ripe
+		cherry tomatoes growing
+		in a home garden">
+```
+
+Notes:
+First, the WCAG success criteria 1.1.1 is about text alternatives. Images that convey information should have a text description. Audio and video should have captions, descriptions, and transcripts. This provides alternative content for assistive technology like a screen reader or braille display. More information is available to users who may not be able to understand the content. Those who are not hard of hearing can still benefit from captions when in a noisy room or in a situation in which they're trying to be quiet.
+
+
+
+## Not only color
+
+- [WCAG 1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color) (Level A)
+- Complement color with visual alternative
+
+> Required fields are displayed in red and marked with an asterisks (*)
+
+
+
+## Text contrast
+
+- [WCAG 1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum) (Level AA):  
+**4.5:1** minimum contrast ratio
+- [WCAG 1.4.6](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) (Level AAA):  
+**7:1** minimum contrast ratio
+
+
+
+## Text resize
+
+- [WCAG 1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text) (Level AA)
+- Resize text up to 200%  
+without loss of content or functionality
+
+
+
+## Avert horizontal scrolling
+
+- [WCAG 1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow) (Level AA)
+- Don't require horizontal scrolling  
+when viewport is 320px.
+
+
+
+## Line length/spacing
+
+- [WCAG 1.4.8](https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation) (Level AAA)
+- **Line length:** 80 characters or less
+- **Line spacing:** 150% or more
+- **Paragraph spacing:** 250% or more
+- **Text alignment:** Not justified
+
+
+
+## Don't cut off or overlap text
+
+- [WCAG 1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing) (Level AA)
+- Adapt content to user-defined text settings  
+(line height, paragraph/word/letter spacing)
+
+
+
+## Rivet CSS
+
+- Use [Rivet utility classes](https://rivet.uits.iu.edu/utilities/)
+- Color
+- Spacing
+- Typography
+- Visibility
+
+
+
+## Rivet color
+
+- **Text:** `.rvt-color-green`
+- **Background:** `.rvt-bg-green-100`
+
+
+
+## Rivet typography
+
+- **Font size:** `.rvt-ts-md` (26px)
+- **Line height:** `1.5` by default
+- **Content:** `.rvt-prose`
+
+
+
+# Make writing navigable
+
+Part 3 of ?
+
+
+
+# Make writing understandable
+
+Part 4 of ?
+
+"Clear"
+
+
+
+# Make writing concise
+
+
+
+# Make writing responsible
+
+
+
+# Make writing inclusive
+
+
+
+# Make writing human
 
 
 
@@ -315,52 +471,6 @@ Notes:
 We can evaluate the usability of writing by addressing two primary questions. First: Can you read this? Second: How well can you understand this?
 
 https://anchordigital.com.au/articles/read-between-the-lines-why-legibility-and-readability-is-essential-for-ux
-
-
-
-## WCAG
-
-Web Content Accessibility Guidelines
-
-[Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
-
-[WCAG 2.1 Understanding Docs](https://www.w3.org/WAI/WCAG21/Understanding/)
-
-Notes:
-The Web Content Accessibility Guidelines (or WCAG) manages a robust set of guidelines pertaining to writing, among many other things. The "Understanding Docs" provides an approachable overview of the guidelines. This will help make our writing more usable.
-
-
-
-## Can you read this?
-
-- [1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content): Text alternatives
-- [1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color): Not only color
-- [1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum): Text contrast
-- [1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text): Text resize
-- [1.4.8](https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation): Line length/spacing
-- [1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow): Avert horizontal scrolling
-- [1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing): Don't cut off or overlap text
-
-Notes:
-Here are seven success criteria that WCAG makes that addresses the question, "Can you read this?" I'll briefly review these.
-
-
-
-## [1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content): Text alternatives
-
-- Images/graphs: Alt text
-- Audio/video: Captions, descriptions, transcripts
-
-Notes:
-First, success criteria 1.1.1 is about text alternatives. Images that convey information should have a text description. Audio and video should have captions, descriptions, and transcripts. This provides alternative content for assistive technology like a screen reader or braille display. More information is available to users who may not be able to understand the content. Those who are not hard of hearing can still benefit from captions when in a noisy room or in a situation in which they're trying to be quiet.
-
-
-
-## [1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color): Not only color
-
-Complement color with visual alternative
-
-> Required fields displayed in red and marked with an asterisks (*)
 
 
 

@@ -58,6 +58,7 @@ html {
 	font-weight: bold;
 	margin: 0 0 0.5rem;
 	word-wrap: break-word;
+	text-wrap: balance;
 }
 
 .reveal h1 {
@@ -179,6 +180,15 @@ html {
 	position: absolute;
 	white-space: nowrap;
 	width: 1px;
+}
+
+.reveal pre {
+	display: inline-block;
+	text-align: left;
+}
+
+.reveal code {
+	font-family: monospace;
 }
 
 /*
