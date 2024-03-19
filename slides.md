@@ -84,12 +84,25 @@ How do we do this? The words we use in digital products should be useful, usable
 
 
 
-# Make writing useful
+## Make writing…
 
-Part 1 of 3
+1. Purposeful
+2. Legible
+3. Navigable
+4. Clear
+5. Concise
+6. Inclusive
+7. Contextual
+8. Human
+
+
+
+# Make writing purposeful
+
+Part 1 of 8
 
 Notes:
-Part 1. Writing should be useful.
+Part 1. Writing should be purposeful.
 
 
 
@@ -98,7 +111,7 @@ Part 1. Writing should be useful.
 Help both people and systems meet their goals
 
 Notes:
-Words that are useful serve a purpose. They are goal-oriented. In product design, that purpose should be to help people and systems meet their goals and solve their problems.
+Words that are purposeful serve a purpose. They are goal-oriented. In product design, that purpose should be to help people and systems meet their goals and solve their problems.
 
 
 
@@ -149,9 +162,11 @@ One way to be cooperative and have a meaningful exchange is to make the process 
 
 ## Be cooperative
 
-> - **Waiter:** Would you like wheat bread or gluten-free bread?
-> - **Customer:** Wheat, please.
-> - **Waiter:** Great.
+> **Waiter:** Would you like wheat bread or gluten-free bread?
+>
+> **Customer:** Wheat, please.
+>
+> **Waiter:** Great.
 
 Notes:
 This happens when people in a conversation are cooperative. In this example, the waiter says, "Would you like wheat bread or gluten-free bread?" The customer responds, "Wheat, please." The waiter confirms, "Great." In this case, the waiter states upfront the options available to the customer. The customer can provide a simple response by selecting one of those options.
@@ -160,10 +175,13 @@ This happens when people in a conversation are cooperative. In this example, the
 
 ## Don't be uncooperative
 
-> - **Customer:** Can you call me when this table is back in stock?
-> - **Furniture rep:** No.
-> - **Customer:** Then what should I do?
-> - **Furniture rep:** Check back later.
+> **Customer:** Can you call me when this table is back in stock?
+>
+> **Furniture rep:** No.
+>
+> **Customer:** Then what should I do?
+>
+> **Furniture rep:** Check back later.
 
 Notes:
 In contrast, a conversation can be difficult when there isn't cooperation. In this example, a customer asks, "Can you call me when this table is back in stock?" The representative of the furniture company replies bluntly, "No." The rep does not offer any further options. This requires the customer to follow up with, "Then what should I do?" The rep coldly replies, "Check back later." This unhelpful exchange was frustrating for the customer, and it will demand even more of their time and effort, if they really want that table.
@@ -172,8 +190,9 @@ In contrast, a conversation can be difficult when there isn't cooperation. In th
 
 ## Mutual benefits
 
-> - Person reads The Home Depot's [*How to Hang Drywall* guide](https://www.homedepot.com/c/ah/how-to-hang-drywall/9ba683603be9fa5395fab90cbb4826d).
-> - Person purchases related products.
+- Person reads The Home Depot's  
+[*How to Hang Drywall* guide](https://www.homedepot.com/c/ah/how-to-hang-drywall/9ba683603be9fa5395fab90cbb4826d).
+- Person purchases related products.
 
 Notes:
 Now for an example with a system. A home owner wants to hang drywall for the first time. This requires knowledge, materials, and tools. They discover Home Depot has an online guide to walk through this project with videos and written instructions. They've gained knowledge, but the page also lists the materials and tools that they may need. These product pages then display where to find the product in the customer's local store. In summary, the store aims to gain a loyal customer (and their money) by making it easy for the customer to learn about and complete their projects. Both the customer and the store benefit by this exchange.
@@ -216,30 +235,38 @@ Here's an example situation. The first person is the customer. They want dinner 
 
 ## Example conversation
 
-> - **Pizza rep:** Welcome to Pizza Planet. Is this for pickup or delivery?
-> - **Customer:** Delivery, please.
-> - **Pizza rep:** I see from your phone number that you've ordered from us last month. Would you like the same order or something different?
+> **Pizza rep:** Welcome to Pizza Planet. Is this for pickup or delivery?
+>
+> **Customer:** Delivery, please.
+>
+> **Pizza rep:** I see from your phone number that you've ordered from us last month. Would you like the same order or something different?
 
 Notes:
 Now, I'll read through the conversation…
 
 
 
-> - **Customer:** Yes, I'd like same thing. I believe it was a large with three toppings and breadsticks.
-> - **Pizza rep:** Yes, it was a large with feta, garlic, and pineapple. The breadsticks came with cheese sauce.
-> - **Customer:** That sounds perfect. Let's just go with that.
+> **Customer:** Yes, I'd like same thing. I believe it was a large with three toppings and breadsticks.
+>
+> **Pizza rep:** Yes, it was a large with feta, garlic, and pineapple. The breadsticks came with cheese sauce.
+>
+> **Customer:** That sounds perfect. Let's just go with that.
 
 
 
-> - **Pizza rep:** That will be $26.50, with tax and delivery fee included. Do you want to pay with your credit card on file or at time of delivery?
-> - **Customer:** I'll pay upon delivery.
-> - **Pizza rep:** It should be delivered to your address on file in about 20 minutes. Would you like to receive text message updates to track the delivery?
-> - **Customer:** Sure!
+> **Pizza rep:** That will be $26.50, with tax and delivery fee included. Do you want to pay with your credit card on file or at time of delivery?
+>
+> **Customer:** I'll pay upon delivery.
+>
+> **Pizza rep:** It should be delivered to your address on file in about 20 minutes. Would you like to receive text message updates to track the delivery?
+>
+> **Customer:** Sure!
 
 
 
-> - **Pizza rep:** Is there anything else I can help you with?
-> - **Customer:** No, that will be all. Thank you!
+> **Pizza rep:** Is there anything else I can help you with?
+>
+> **Customer:** No, that will be all. Thank you!
 
 
 
@@ -305,24 +332,27 @@ These conversations can used to start additional activities. For example, a user
 
 
 
+## Questions
+
+Make writing purposeful
+
+
+
 # Make writing legible
 
-Part 2 of ?
+Part 2 of 8
 
 Notes:
-In Part 1, we learned that writing is useful when it helps to achieve goals. In Part 2, we will learn how to make writing legible.
+In Part 1, we learned that writing is purposeful when it helps to achieve goals. In Part 2, we will learn how to make writing legible.
 
 
 
 ## Can you read this?
 
 - Text alternatives
-- Not only color
-- Text contrast
-- Text resize
-- Avert horizontal scrolling
-- Line length/spacing
-- Don't cut off or overlap text
+- Color
+- Resize
+- Layout
 
 Notes:
 Writing is legible if readers have the ability to distinguish the content in a text and perceive it as words and concepts.
@@ -333,16 +363,16 @@ Here are seven success criteria that WCAG makes that addresses the question, "Ca
 
 ## Text alternatives
 
-- [WCAG 1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content) (Level A)
-- Images/graphs: Alt text
-- Audio/video: Captions, descriptions, transcripts
+- [SC 1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content) (Level A)
+- **Images/graphs:** Alt text
+- **Audio/video:** Captions, descriptions, transcripts
 
 ```html
 <img
 	src="tomato.jpg"
 	alt="A cluster of ripe
 		cherry tomatoes growing
-		in a home garden">
+		in a community garden">
 ```
 
 Notes:
@@ -352,7 +382,7 @@ First, the WCAG success criteria 1.1.1 is about text alternatives. Images that c
 
 ## Not only color
 
-- [WCAG 1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color) (Level A)
+- [SC 1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color) (Level A)
 - Complement color with visual alternative
 
 > Required fields are displayed in red and marked with an asterisks (*)
@@ -361,32 +391,32 @@ First, the WCAG success criteria 1.1.1 is about text alternatives. Images that c
 
 ## Text contrast
 
-- [WCAG 1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum) (Level AA):  
+- [SC 1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum) (Level AA):  
 **4.5:1** minimum contrast ratio
-- [WCAG 1.4.6](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) (Level AAA):  
+- [SC 1.4.6](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) (Level AAA):  
 **7:1** minimum contrast ratio
 
 
 
 ## Text resize
 
-- [WCAG 1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text) (Level AA)
-- Resize text up to 200%  
-without loss of content or functionality
+- [SC 1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text) (Level AA)
+- Resize text up to 200% without loss  
+of content or functionality
 
 
 
 ## Avert horizontal scrolling
 
-- [WCAG 1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow) (Level AA)
+- [SC 1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow) (Level AA)
 - Don't require horizontal scrolling  
 when viewport is 320px.
 
 
 
-## Line length/spacing
+## Layout
 
-- [WCAG 1.4.8](https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation) (Level AAA)
+- [SC 1.4.8](https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation) (Level AAA)
 - **Line length:** 80 characters or less
 - **Line spacing:** 150% or more
 - **Paragraph spacing:** 250% or more
@@ -396,15 +426,13 @@ when viewport is 320px.
 
 ## Don't cut off or overlap text
 
-- [WCAG 1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing) (Level AA)
-- Adapt content to user-defined text settings  
-(line height, paragraph/word/letter spacing)
+- [SC 1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing) (Level AA)
+- Adapt content to user-defined layout settings
 
 
 
 ## Rivet CSS
 
-- Use [Rivet utility classes](https://rivet.uits.iu.edu/utilities/)
 - Color
 - Spacing
 - Typography
@@ -414,81 +442,158 @@ when viewport is 320px.
 
 ## Rivet color
 
+- [Color documentation](https://rivet.uits.iu.edu/utilities/color/)
 - **Text:** `.rvt-color-green`
 - **Background:** `.rvt-bg-green-100`
+- Contrast checker (Levels AA/AAA)
+
+
+
+## Rivet spacing
+
+- [Gap](https://rivet.uits.iu.edu/utilities/gap/) and [spacing](https://rivet.uits.iu.edu/utilities/spacing/) documentation
+- **Gap:** `.rvt-gap-col-sm`
+- **Margin:** `.rvt-m-top-md`
+- **Padding:** `.rvt-p-left-lg`
 
 
 
 ## Rivet typography
 
+- [Typography documentation](https://rivet.uits.iu.edu/utilities/typography/)
 - **Font size:** `.rvt-ts-md` (26px)
 - **Line height:** `1.5` by default
 - **Content:** `.rvt-prose`
+
+Notes:
+Benton Sans
+
+
+
+## Rivet visibility
+
+- [Visibility documentation](https://rivet.uits.iu.edu/utilities/visibility/)
+- **Screen readers only:** `.rvt-sr-only`
+- **Hide for all:** `.rvt-display-none`
+
+
+
+## Questions
+
+Make writing legible
 
 
 
 # Make writing navigable
 
-Part 3 of ?
-
-
-
-# Make writing understandable
-
-Part 4 of ?
-
-"Clear"
-
-
-
-# Make writing concise
-
-
-
-# Make writing responsible
-
-
-
-# Make writing inclusive
-
-
-
-# Make writing human
-
-
-
-## Usable writing
-
-- Can you read this?
-- How well can you understand this?
-- Legible
-- Navigate
-- Readable
-- Predictable
-- Helpful
-
-Notes:
-We can evaluate the usability of writing by addressing two primary questions. First: Can you read this? Second: How well can you understand this?
-
-https://anchordigital.com.au/articles/read-between-the-lines-why-legibility-and-readability-is-essential-for-ux
+Part 3 of 8
 
 
 
 ## Navigate text
 
-- [2.4.1](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks): Skip links
-- [2.4.2](https://www.w3.org/WAI/WCAG21/Understanding/page-titled): Page has title
-- [2.4.4](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context)/[2.4.9](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only): Link purpose
-- [2.4.6](https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels): Descriptive headings
-- [2.4.10](https://www.w3.org/WAI/WCAG21/Understanding/section-headings): Use headings to section content
+- Page title
+- Headings
+- Landmarks
+- Links
 
 
 
-## Understandable text
+## Page title
 
-- Readable
-- Predictable
-- Helpful
+- [SC 2.4.2](https://www.w3.org/WAI/WCAG21/Understanding/page-titled) (Level A)
+- More specific to less specific parts
+- First part should match page heading
+- Use delimiter between parts (`-`, `|`, `·`)
+
+> Employee Center | All IU Campuses | One.IU
+
+Notes:
+https://one.iu.edu/task/iu/employee-center
+
+
+
+## Headings
+
+- [SC 2.4.6](https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels): Descriptive headings (Level AA)
+- [SC 2.4.10](https://www.w3.org/WAI/WCAG21/Understanding/section-headings): Section content (Level AAA)
+- `<h1>` → `<h6>`
+
+```html
+<h1>Garden plants</h1>
+	<h2>Pepper</h2>
+	<h2>Squash</h2>
+```
+
+
+
+## Landmarks
+
+- [SC 2.4.1](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) (Level A)
+- `<header role="banner">`
+- `<nav role="navigation">`
+- `<main role="main">`
+- `<aside role="complementary">`
+- `<footer role="contentinfo">`
+
+Notes:
+Implicit ARIA role.
+
+
+
+## Label landmarks
+
+[Technique ARIA11](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA11)
+
+```html
+<nav aria-label="Primary">…</nav>
+<main>
+	<h1>…</h1>
+	<nav aria-labelledby="nav1">
+		<h2 id="nav1">On this page</h2>
+		…
+	</nav>
+	…
+</main>
+```
+
+
+
+## Skip links
+
+- [SC 2.4.1](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) (Level A)
+- [Rivet header](https://rivet.uits.iu.edu/components/header/): `.rvt-header-wrapper__skip-link`
+
+```html
+<a
+	href="#main">
+	Skip to main content
+</a>
+```
+
+
+
+## Link purpose
+
+- [SC 2.4.4](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context)/[SC 2.4.9](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only): Link purpose
+
+
+
+## Screen reader demo
+
+Navigating with VoiceOver
+
+
+
+## Questions
+
+Make writing navigable
+
+
+
+# Make writing clear
+
+Part 4 of 8
 
 
 
@@ -514,6 +619,16 @@ abbreviations): Define abbreviations
 
 
 
+## Questions
+
+Make writing clear
+
+
+
+# Make writing concise
+
+Part 5 of 8
+
 
 
 ## Comprehension
@@ -521,12 +636,30 @@ abbreviations): Define abbreviations
 - Sighted reader: 2–5 words per second
 - Screen reader: 35 syllables per second
 
-> Don’t be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
+> Don't be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
 >
 > — *Writing is Designing* (2020)
 
 Notes:
 According to the book *Writing is Designing*: The average reading time for sighted readers is two to five words per second. Screen-reader users can comprehend text being read at an average of 35 syllables per second, which is significantly faster. Don't be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
+
+
+
+# Make writing inclusive
+
+Part 6 of 8
+
+
+
+# Make writing contextual
+
+Part 7 of 8
+
+
+
+# Make writing human
+
+Part 8 of 8
 
 
 

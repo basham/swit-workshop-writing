@@ -6,6 +6,7 @@
  * Global styles
  */
  :root {
+	--border-radius: 0.25rem;
 	--color-black: #000;
 	--color-swit-red-1: #db2427;
 	--color-swit-red-2: #7f1416;
@@ -56,7 +57,7 @@ html {
 .reveal h1,
 .reveal h2 {
 	font-weight: bold;
-	margin: 0 0 0.5rem;
+	margin: 0;
 	word-wrap: break-word;
 	text-wrap: balance;
 }
@@ -70,7 +71,7 @@ html {
 }
 
 .reveal p {
-	margin: 0 0 0.5rem;
+	margin: 0.5rem 0 0;
 }
 
 .reveal iframe,
@@ -83,7 +84,7 @@ html {
 .reveal ol,
 .reveal ul {
 	display: inline-block;
-	margin: 0 0 0.5rem 1rem;
+	margin: 0 0 0 1rem;
 	text-align: left;
 }
 
@@ -95,24 +96,22 @@ html {
 	margin-left: 1rem;
 }
 
-.reveal li + li {
+.reveal li {
 	margin-top: 0.5rem;
 }
 
 .reveal blockquote {
-	border-color: var(--color-accent);
-	border-style: solid;
-	border-width: 0.1rem 0;
-	display: block;
-	margin: 1rem auto;
-	padding-top: 0.5rem;
+	background-color: var(--color-swit-gray-3);
+	border-radius: var(--border-radius);
+	display: inline-block;
+	margin-top: 0.5rem;
+	padding: 0.5rem;
 	text-align: left;
 	width: 80%;
 }
 
-.reveal blockquote p:first-child,
-.reveal blockquote p:last-child {
-	display: inline-block;
+.reveal blockquote :first-child {
+	margin: 0;
 }
 
 .reveal em {
@@ -182,14 +181,22 @@ html {
 	width: 1px;
 }
 
+.reveal code,
+.reveal pre {
+	background-color: var(--color-swit-gray-3);
+	border-radius: var(--border-radius);
+	font-family: monospace;
+	padding: 0 0.25ch;
+}
+
 .reveal pre {
 	display: inline-block;
+	margin-top: 0.5rem;
+	padding: 0.25rem;
 	text-align: left;
 }
 
-.reveal code {
-	font-family: monospace;
-}
+
 
 /*
  * Print
