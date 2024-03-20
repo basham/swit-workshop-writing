@@ -62,6 +62,15 @@ The Web Content Accessibility Guidelines (or WCAG) manages a robust set of guide
 
 
 
+## Resources
+
+https://github.com/basham/swit-workshop-writing
+
+Notes:
+All resources for this workshop, including slides, slide notes, and links, are located on GitHub. I'll show this link at the end of the workshop again.
+
+
+
 ## "We need words"
 
 > …is not the problem that we solve as UX writers. We communicate. We invite action. We inspire loyalty. Our teams need to know that UX writing can be used to solve problems.
@@ -488,14 +497,20 @@ Make writing legible
 
 Part 3 of 8
 
+Notes:
+Now that the writing has a purpose and it is legible, now let's examine how we can make it navigable.
 
 
-## Navigate text
 
-- Page title
+## Page navigation
+
+- Title
 - Headings
 - Landmarks
 - Links
+
+Notes:
+When landing on a webpage, you need to get oriented, move around, and navigate to other pages. This can be done with titles, headings, landmarks, and links.
 
 
 
@@ -509,6 +524,9 @@ Part 3 of 8
 > Employee Center | All IU Campuses | One.IU
 
 Notes:
+The page title is the first piece of content presented to a user. This is what is displayed on a browser tab. Page titles typically consistent of multiple parts, in which it starts with a description of the page, gets more broad, and eventually labels the brand name of the site. That first part usually should match the primary heading of the page (h1). The parts should be separated with some character, such as a dash, pipe, or bullet.
+
+For example, the Employee Center task page on One.IU starts with "Employee Center", uses a pipe character to separate parts, and finishes with the brand name "One.IU".
 https://one.iu.edu/task/iu/employee-center
 
 
@@ -525,19 +543,25 @@ https://one.iu.edu/task/iu/employee-center
 	<h2>Squash</h2>
 ```
 
+Notes:
+Headings should be used, starting with the `h1` element, which stands for "heading level 1". The heading levels should stay consistent, in the right order and not skipped. They should proceed the content it describes. Its description should be relevant for its content. It should be succinct.
+
 
 
 ## Landmarks
 
-- [SC 2.4.1](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) (Level A)
-- `<header role="banner">`
-- `<nav role="navigation">`
-- `<main role="main">`
-- `<aside role="complementary">`
-- `<footer role="contentinfo">`
+[SC 2.4.1](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks) (Level A)
+
+| Element | Implicit role |
+| --- | --- |
+| `<header>` | banner |
+| `<nav>` | navigation |
+| `<main>` | main |
+| `<aside>` | complementary |
+| `<footer>` | contentinfo |
 
 Notes:
-Implicit ARIA role.
+Many HTML elements have an implicit meaning. They are "landmark" elements which means they help users of assistive technology to navigate a page. It helps them to skim to major sections of content, like the header/banner at the start of the page, the main content area, or the footer at the end of the page.
 
 
 
@@ -557,6 +581,9 @@ Implicit ARIA role.
 </main>
 ```
 
+Notes:
+It is especially helpful to label landmarks when there are multiple landmarks of the same kind. In this example, there are two areas of navigation. The primary navigation doesn't have a visible label, so the attribute `aria-label` is used to just explicitly label it as "primary" for assistive technology users. The second navigation has the visible label "On this page" as a heading level 2. In this case, the nav's label is determined by using the `aria-labelledby` attribute, referencing the heading. The main element doesn't need a label, because there should ever only be one of those.
+
 
 
 ## Skip links
@@ -571,11 +598,27 @@ Implicit ARIA role.
 </a>
 ```
 
+Notes:
+The links in the "On this page" navigation (which weren't shown) are examples of skip links. They just jump the page to another section of content. Skip links are also used at the start of a page, so that a keyboard user has the option to, for example, skip to the main content. This is useful for when someone is already familiar with the header/banner at the start of all the pages on a site. The Rivet Header component has a skip link built in.
+
 
 
 ## Link purpose
 
-- [SC 2.4.4](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context)/[SC 2.4.9](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only): Link purpose
+- [SC 2.4.4](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context): In context (Level A)
+- [SC 2.4.9](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only): Link only (Level AAA)
+
+| In context | Link only |
+| --- | --- |
+| [Learn more](#) about grow bag gardening | [Grow bag gardening](#) |
+| Tap the Search icon in the upper nav | Use [Search](#) to find [gardening tutorials](#) |
+
+Notes:
+One should understand the purpose of a link by its surrounding context. However, links can be better if written such that the surrounding context is not needed.
+
+For example, the link "learn more" requires the nearby text "about grow bag gardening" to understand what it is about. It is better to simple have the link text "grow bag gardening."
+
+For the second example, the text says "Tap the Search icon in the upper nav". There is no link. You have to guess what it means, and hopefully you've already noticed the search icon. It is better to write "Use Search to find gardening tutorials" in which "Search" is a link to start a new search and "gardening tutorials" is a link to the search results for gardening tutorials and an in-context example of what to search for.
 
 
 
@@ -583,17 +626,26 @@ Implicit ARIA role.
 
 Navigating with VoiceOver
 
+Notes:
+I'm going to play a recording of me using the macos VoiceOver screen reader to navigate a page. This will help you better understand how these techniques can help a user of this tool navigate a page.
+
 
 
 ## Questions
 
 Make writing navigable
 
+Notes:
+What questions do you have about making writing navigable?
+
 
 
 # Make writing clear
 
 Part 4 of 8
+
+Notes:
+Now that you can read and use the text, let's learn how to make the writing clear and understandable.
 
 
 
@@ -602,8 +654,7 @@ Part 4 of 8
 - [3.1.1](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page): Language of page
 - [3.1.2](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts): Language of parts
 - [3.1.3](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words): Define unusual words
-- [3.1.4](https://www.w3.org/WAI/WCAG21/Understanding/
-abbreviations): Define abbreviations
+- [3.1.4](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations): Define abbreviations
 - [3.1.5](https://www.w3.org/WAI/WCAG21/Understanding/reading-level): Reading level
 - [3.1.6](https://www.w3.org/WAI/WCAG21/Understanding/pronunciation): Pronunciation
 
@@ -619,6 +670,27 @@ abbreviations): Define abbreviations
 
 
 
+## Plain language
+
+> It's not dumbing down. It's opening up.
+>
+> — Sarah Richards, *Content Design* (2019)
+
+Notes:
+> In her book, Richards pointed out that you can make writing more
+accessible and usable through plain language that people with a vari-
+ety of reading levels can understand. This practice helps cognitively
+disabled users, those who have recently learned the language you’re
+writing in, and even people who are stressed.
+
+
+
+## Consistency
+
+Just like how conciseness has tension with precision, clarity has tension with consistency. Prioritize clarity over consistency.
+
+
+
 ## Questions
 
 Make writing clear
@@ -628,6 +700,43 @@ Make writing clear
 # Make writing concise
 
 Part 5 of 8
+
+
+
+## Quick and clear
+
+To the point
+
+> **Alert:** Document saved
+
+Notes:
+Fourth, a system should be quick and clear with its messaging. For example, after the user saves a document, an alert displays that just states, "Document saved." That's sufficient to inform the person that they're not going to lose their progress.
+
+
+
+## (Not quick and clear)
+
+Ambiguous
+
+> **Alert:** System Error 5023
+
+Notes:
+In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
+
+What experiences have you had (quick and clear or not quick and clear)?
+
+
+
+## Line length
+
+50 characters words line
+1–4 lines long
+
+
+
+## Buttons, badges
+
+1–3 words
 
 
 
@@ -642,6 +751,13 @@ Part 5 of 8
 
 Notes:
 According to the book *Writing is Designing*: The average reading time for sighted readers is two to five words per second. Screen-reader users can comprehend text being read at an average of 35 syllables per second, which is significantly faster. Don't be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
+
+
+
+## Precision
+
+Precision tends to be wordy.
+Progressively reveal content with disclosures or links to other pages.
 
 
 
@@ -708,30 +824,6 @@ In general, do not use words that describe the what the user should do with thei
 
 
 
-## "Click here"
-
-| Bad | Good |
-| --- | --- |
-| [Learn more](#) about grow bag gardening | [Grow bag gardening](#) |
-| Tap the Search icon in the upper nav | Use [Search](#) to find gardening tutorials |
-
-
-
-## Plain language
-
-> It's not dumbing down. It's opening up.
->
-> — Sarah Richards, *Content Design* (2019)
-
-Notes:
-> In her book, Richards pointed out that you can make writing more
-accessible and usable through plain language that people with a vari-
-ety of reading levels can understand. This practice helps cognitively
-disabled users, those who have recently learned the language you’re
-writing in, and even people who are stressed.
-
-
-
 ## Process
 
 Editing
@@ -778,30 +870,6 @@ What experiences have you had (turn-based or not turn-based)?
 
 
 
-## Quick and clear
-
-To the point
-
-> **Alert:** Document saved
-
-Notes:
-Fourth, a system should be quick and clear with its messaging. For example, after the user saves a document, an alert displays that just states, "Document saved." That's sufficient to inform the person that they're not going to lose their progress.
-
-
-
-## (Not quick and clear)
-
-Ambiguous
-
-> **Alert:** System Error 5023
-
-Notes:
-In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
-
-What experiences have you had (quick and clear or not quick and clear)?
-
-
-
 ## Iteration
 
 Replace words with better words
@@ -815,32 +883,6 @@ Editing
 
 
 ## Omit needless information
-
-
-
-## Precision
-
-Precision tends to be wordy.
-Progressively reveal content with disclosures or links to other pages.
-
-
-
-## Line length
-
-50 characters words line
-1–4 lines long
-
-
-
-## Buttons, badges
-
-1–3 words
-
-
-
-## Consistency
-
-Just like how conciseness has tension with precision, clarity has tension with consistency. Prioritize clarity over consistency.
 
 
 
@@ -949,18 +991,12 @@ In contrast, a system is not error-tolerant if the expectation does not align wi
 
 
 
-## Resources
-
-https://github.com/basham/swit-workshop-writing
-
-Notes:
-All resources for this workshop, including slides, slide notes, and links, are located on GitHub.
-
-
-
 # Thank you
 
-https://github.com/basham/swit-workshop-impact
+Write words that are  
+useful, usable, and responsible
+
+https://github.com/basham/swit-workshop-writing
 
 Notes:
 Once again, the slides and additional resources are on GitHub. Feel free to follow up with me as you need. Thank you for joining me today.
