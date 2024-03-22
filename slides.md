@@ -255,11 +255,11 @@ Now, I'll read through the conversation…
 
 
 
-> **Customer:** Yes, I'd like same thing. I believe it was a large with three toppings and breadsticks.
+> **Customer:** Remind me, what was the last order?
 >
-> **Pizza rep:** Yes, it was a large with feta, garlic, and pineapple. The breadsticks came with cheese sauce.
+> **Pizza rep:** It was a large with feta, garlic, and pineapple. The breadsticks came with cheese sauce.
 >
-> **Customer:** That sounds perfect. Let's just go with that.
+> **Customer:** Let's go with that.
 
 
 
@@ -649,14 +649,160 @@ Now that you can read and use the text, let's learn how to make the writing clea
 
 
 
-## Readable text
+## Clear text
 
-- [3.1.1](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page): Language of page
-- [3.1.2](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts): Language of parts
-- [3.1.3](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words): Define unusual words
-- [3.1.4](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations): Define abbreviations
-- [3.1.5](https://www.w3.org/WAI/WCAG21/Understanding/reading-level): Reading level
-- [3.1.6](https://www.w3.org/WAI/WCAG21/Understanding/pronunciation): Pronunciation
+- Language
+- Unusual words
+- Pronunciation
+- Reading level
+
+Notes:
+We can make our writing more clear by paying attention to the use of language, unusual words, pronunciation, and reading level.
+
+
+
+## Language of page
+
+[SC 3.1.1](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page) (Level A)
+
+```html
+<html lang="en">
+```
+
+Notes:
+All pages should define the primary language of its text by using the `lang` attribute on the `html` element. In the case of English language content, use the `en` value. This helps text-to-speech software more accurately pronounce content.
+
+
+
+## Language of parts
+
+[SC 3.1.2](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts) (Level AA)
+
+```html
+<ul>
+	<li lang="de">Deutsch</li>
+	<li lang="it">Italiano</li>
+	<li lang="fr">Français</li>
+</ul>
+```
+
+Notes:
+Where subsets of text differ from the page's primary language, use a different `lang` value on the containing element. `de` is German. `it` is Italian. `fr` is French.
+
+
+
+## Define (or avoid) unusual words
+
+- Multiple definitions ("gig")
+- Jargon ("code blue")
+- Slang ("shiner")
+- Idioms ("hot potato")
+- Acronyms ("ROI")
+- Abbreviations ("lb.")
+
+Notes:
+There are many categories of words that we use which may be challenging for someone to understand. For example, "gig" may have multiple definitions depending on the context. "Code blue" is jargon, because it is meaningful primarily to medical professionals. "Shiner" is British slang for a black eye. "Hot potato" is an idiom meaning a controversial issue. "ROI" is an acronym meaning return on investment. "lb." means "pounds."
+
+These words should be defined so users know what they mean in the given context. Or even better, the content could be written so these words are never needed.
+
+https://en.wikipedia.org/wiki/English-language_idioms
+https://en.wikipedia.org/wiki/Jargon
+
+
+
+## Define inline
+
+- [Technique H54](https://www.w3.org/WAI/WCAG21/Techniques/html/H54)
+- Use the [`<dfn>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dfn)
+
+```html
+<p>A <dfn>basil plant</dfn>
+is an aromatic annual herb
+of the mint family.</p>
+```
+
+Notes:
+Where a word is defined inline on a page, wrap the word in a `dfn` or "definition" element. In this example, the text is "A basil plant is an aromatic annual herb of the mint family" and "basil plant" is wrapped in the `dfn` element.
+
+
+
+## Link to glossary
+
+- [Technique G55](https://www.w3.org/WAI/WCAG21/Techniques/general/G55)
+- Link to [`<dt>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)
+
+```html
+<p>…<a href="#def-basil">basil</a>…</p>
+<h2>Glossary</h2>
+<dl>
+	<dt id="def-basil">Basil</dt>
+	<dd>…</dd>
+</dl>
+```
+
+Notes:
+Definitions can also be curated in a glossary. Words can be linked to the terms on the same page or another page. In this example, the word "basil" links to its definition in a glossary section near the end of the page. The `dl` or description list is the appropriate container to use for a set of key-value pairs. The link references the `dt` or "description term" element.
+
+
+
+## Expand abbreviation
+
+[Technique G97](https://www.w3.org/WAI/WCAG21/Techniques/general/G97)
+
+> First-year applicants of Indiana University (IU) must have a minimum GPA (grade point average) of 2.5.
+
+Notes:
+Abbreviations can be defined or expanded inline. For example, "First-year applicants of Indiana University (IU) must have a minimum GPA (grade point average) of 2.5." Now, the rest of the page can freely use IU and GPA because it has been declared.
+
+
+
+## Declare abbreviation
+
+- [Technique H28](https://www.w3.org/WAI/WCAG21/Techniques/html/H28)
+- Use the [`<abbr>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
+
+```html
+<abbr title="Indiana University">
+	IU
+</abbr>
+<abbr title="verses">v.</abbr>
+<abbr title="Ohio State University">
+	OSU
+</abbr>
+```
+
+Notes:
+If the expanded form is not desired, it should at least be declared. This can be done with the `abbr` element. In this example, "IU v. OSU" contains three abbreviations which can be individually expanded to mean "Indiana University verses Ohio State University."
+
+
+
+## Pronunciation
+
+- [SC 3.1.6](https://www.w3.org/WAI/WCAG21/Understanding/pronunciation) (Level AAA)
+- Link to or declare pronunciation after word
+- IU students record their name with [NameCoach](https://kb.iu.edu/d/appu)
+
+Notes:
+Some words can be troublesome to pronounce. Like unusual words, their pronunciation can be expanded inline or linked to. For example, the NameCoach tool allows students to record themselves speaking their name. This can be listened to in Canvas, so the instructor or classmates can know how to properly speak their name.
+
+
+
+## Reading level
+
+- [SC 3.1.5](https://www.w3.org/WAI/WCAG21/Understanding/reading-level) (Level AAA)
+- Target middle school reading level (grades 7, 8, 9)
+- Ignore names and titles
+
+
+
+## Plain language
+
+> It's not dumbing down. It's opening up.
+>
+> — Sarah Richards, *Content Design* (2019)
+
+Notes:
+> In her book, Richards pointed out that you can make writing more accessible and usable through plain language that people with a variety of reading levels can understand. This practice helps cognitively disabled users, those who have recently learned the language you're writing in, and even people who are stressed.
 
 
 
@@ -670,24 +816,41 @@ Now that you can read and use the text, let's learn how to make the writing clea
 
 
 
-## Plain language
-
-> It's not dumbing down. It's opening up.
->
-> — Sarah Richards, *Content Design* (2019)
-
-Notes:
-> In her book, Richards pointed out that you can make writing more
-accessible and usable through plain language that people with a vari-
-ety of reading levels can understand. This practice helps cognitively
-disabled users, those who have recently learned the language you’re
-writing in, and even people who are stressed.
-
-
-
 ## Consistency
 
 Just like how conciseness has tension with precision, clarity has tension with consistency. Prioritize clarity over consistency.
+
+
+
+## Use chronological words
+
+| Spatial | Chronological |
+| --- | --- |
+| Top | Beginning |
+| Bottom | End |
+| Left | Before |
+| Right | After |
+
+Notes:
+Spatial words like top, bottom, left, and right are not appropriate for describing content that can be experienced in linear ways. For example, when a website is on a mobile device, all the content stacks vertically. And when a website is being announced by a screen reader, it reads the content linearly. Words like beginning, end, before, and after should be preferred, because they scale in more contexts.
+
+
+
+## Place critical info before a decision point
+
+> New password: **abc123**
+>
+> *Password must include a symbol*
+
+
+
+## Describe the action
+
+- **Device dependent:** Click, Tap, Press, See
+- **Device independent:** Choose, Select, Use, View
+
+Notes:
+In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
 
 
 
@@ -724,19 +887,6 @@ Notes:
 In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
 
 What experiences have you had (quick and clear or not quick and clear)?
-
-
-
-## Line length
-
-50 characters words line
-1–4 lines long
-
-
-
-## Buttons, badges
-
-1–3 words
 
 
 
@@ -789,38 +939,6 @@ Structure content with:
 
 Notes:
 Skimming is a behavior that is used whether you are sighted or not or whether you have a mental impairment or not. Break up content with headings, landmarks, and short paragraphs to facilitate skimming.
-
-
-
-## Use chronological words
-
-| Spatial | Chronological |
-| --- | --- |
-| Top | Beginning |
-| Bottom | End |
-| Left | Before |
-| Right | After |
-
-Notes:
-Spatial words like top, bottom, left, and right are not appropriate for describing content that can be experienced in linear ways. For example, when a website is on a mobile device, all the content stacks vertically. And when a website is being announced by a screen reader, it reads the content linearly. Words like beginning, end, before, and after should be preferred, because they scale in more contexts.
-
-
-
-## Place critical info before a decision point
-
-> New password: **abc123**
->
-> *Password must include a symbol*
-
-
-
-## Describe the action
-
-- **Device dependent:** Click, Tap, Press, See
-- **Device independent:** Choose, Select, Use, View
-
-Notes:
-In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
 
 
 
