@@ -160,6 +160,17 @@ A more common form of this meaningful exchange happens when two people engage in
 
 
 
+## Know your audience
+
+Write for your audience
+
+- Knowledge
+- Expertise
+- Interests
+- Goals
+
+
+
 ## Make it easy
 
 Reduce required effort and upfront knowledge
@@ -790,8 +801,12 @@ Some words can be troublesome to pronounce. Like unusual words, their pronunciat
 ## Reading level
 
 - [SC 3.1.5](https://www.w3.org/WAI/WCAG21/Understanding/reading-level) (Level AAA)
-- Target middle school reading level (grades 7, 8, 9)
-- Ignore names and titles
+- Target middle school reading level (grades 7, 8, 9) for general audiences
+- Know your target audience
+- Names and titles are exempt
+- Use short, common words
+- Short sentences
+- Readability tests are predictions, not guarantees, of understandability/clarity
 
 
 
