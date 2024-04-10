@@ -117,28 +117,23 @@ Part 1. Writing should be purposeful.
 
 ## Identify your audience
 
-- Prospective or current students
-- Alumni
+- Prospective or enrolled students, alumni
 - Parents, supporters, caregivers
 - Faculty, staff
 
 Notes:
-Writing will be most effective when you identify the audience that will be reading it. Try to be more specific than "general audience." It's not just students, but it is prospective students or current students or former students. There are parents, supporters, and caregivers to those students. There are faculty and staff. Each of these categories can get more specific.
+Writing will be most effective when you identify the audience that will be reading it. Try to be more specific than "general audience." It's not just students, but it is prospective students or enrolled students or alumni. There are parents, supporters, and caregivers to those students. There are faculty and staff. Each of these categories can get more specific.
 
 
 
 ## Research your audience
 
-Learn about their:
-
-- Knowledge
-- Expertise
-- Interests
-- Needs
-- Goals
+- Knowledge, expertise
+- Interests, concerns
+- Needs, tasks, goals
 
 Notes:
-Once you've identified the audience, you can research your audience. How you go about that is out of scope for this workshop. But ultimately, research is about asking questions to learn. You should learn about your audience's knowledge, expertise, interests, needs, and goals.
+Once you've identified the audience, you can research your audience. How you go about that is out of scope for this workshop. But ultimately, research is about asking questions to learn. You should learn about your audience's knowledge, expertise, interests, concerns, needs, tasks, and goals.
 
 
 
@@ -149,34 +144,16 @@ Once you've identified the audience, you can research your audience. How you go 
 - Use content
 
 Notes:
-Identifying, researching, and learning about your audience allows you to write for your audience. Writing that useful for your audience helps them to find the content they need, understand that content, and then use that content to meet their goals.
-
-
-
-## Goal-oriented
-
-Help both people and systems meet their goals
-
-Notes:
-Words that are purposeful serve a purpose. They are goal-oriented. In product design, that purpose should be to help people and systems meet their goals and solve their problems.
+Identifying, researching, and learning about your audience allows you to write for your audience. Write in a way to help your audience find the content they need, understand that content, and then use that content to meet their goals.
 
 
 
 ## Cooperation
 
-Work together to meet individual goals
+Meaningful exchange of information or resources to meet individual or shared goals
 
 Notes:
-Many goals can't be solved alone. It requires cooperation. People and systems must work together, so they can meet their individual goals.
-
-
-
-## Meaningful exchange
-
-Information or resources
-
-Notes:
-Cooperation is a give and take. It is a meaningful exchange of information or resources.
+Many goals can't be solved alone. Cooperation requires a meaningful exchange of information or resources, so all parties can meet their individual or shared goals.
 
 
 
@@ -203,7 +180,7 @@ A more common form of this meaningful exchange happens when two people engage in
 Reduce required effort and upfront knowledge
 
 Notes:
-One way to be cooperative and have a meaningful exchange is to make the process easier for the other. One may have a means of reducing the required effort or upfront knowledge that the other needs to engage in the exchange.
+Because you've already identified and researched your audience, you can make a conversation with your audience easy for them. You can now reduce the required effort or upfront knowledge they need to engage in the exchange.
 
 
 
