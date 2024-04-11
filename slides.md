@@ -664,6 +664,17 @@ Now that you can read and use the text, let's learn how to make the writing clea
 
 
 
+## Plain language
+
+> It's not dumbing down. It's opening up.
+>
+> — Sarah Richards, *Content Design* (2019)
+
+Notes:
+As we go through this part, keep in mind: Improving clarity and using plain language is not dumbing down the content. It is opening it up to wider audience.
+
+
+
 ## Clear text
 
 - Language
@@ -805,39 +816,35 @@ Some words can be troublesome to pronounce. Like unusual words, their pronunciat
 ## Reading level
 
 - [SC 3.1.5](https://www.w3.org/WAI/WCAG21/Understanding/reading-level) (Level AAA)
-- Target middle school reading level (grades 7, 8, 9) for general audiences
-- Know your target audience
-- Names and titles are exempt
-- Use short, common words
+- General audiences: Middle school reading level (grades 7, 8, 9)
+- Use short, common words (ignore names, titles)
 - Short sentences
-- Readability tests are predictions, not guarantees, of understandability/clarity
-
-
-
-## Plain language
-
-> It's not dumbing down. It's opening up.
->
-> — Sarah Richards, *Content Design* (2019)
+- Helps readers with cognitive or language barriers
+- Readability tests are predictions of clarity
+- Know your target audience
 
 Notes:
-> In her book, Richards pointed out that you can make writing more accessible and usable through plain language that people with a variety of reading levels can understand. This practice helps cognitively disabled users, those who have recently learned the language you're writing in, and even people who are stressed.
+If writing for general audiences, then writing should be at a middle school reading level. This is achieved primarily by using short words that are common and short sentences. If it is a name or title, then that doesn't need to be altered. Short sentences also help.
 
+Reducing the reading level is a way to help readers with cognitive impairments or those in which English is not their primary language.
 
+There are readability tests that can be used to help reduce the reading level. They are predictions not guarantees of how understandable any given text is.
 
-## Predictable text
-
-- [3.2.4](https://www.w3.org/WAI/WCAG21/Understanding/consistent-identification): Consistent identification
-
-
-
-## Helpful text
+However, if you know your audience, as we've already discussed, then you should know how to write to them, using the language they know. If your audience is alumni, you know they have a college reading level, and they will have the experience of going through an academic institution.
 
 
 
 ## Consistency
 
-Just like how conciseness has tension with precision, clarity has tension with consistency. Prioritize clarity over consistency.
+- [3.2.4](https://www.w3.org/WAI/WCAG21/Understanding/consistent-identification): Consistent identification
+- Use the same text for the same function
+- Choose only one for the same search field: Search, Find, Go
+- Prioritize clarity over consistency
+
+Notes:
+Use words consistently. For example, if the search field in the website's header does the same thing on every page, the submit button should be labeled the same way on all those pages. Don't label it "Search" on one page, "Find" on another page, and "Go" on a third page. Text should be predictable.
+
+However, if making the text consistent reduces clarity, then it is better to be inconsistent.
 
 
 
@@ -855,14 +862,6 @@ Spatial words like top, bottom, left, and right are not appropriate for describi
 
 
 
-## Place critical info before a decision point
-
-> New password: **abc123**
->
-> *Password must include a symbol*
-
-
-
 ## Describe the action
 
 - **Device dependent:** Click, Tap, Press, See
@@ -870,6 +869,17 @@ Spatial words like top, bottom, left, and right are not appropriate for describi
 
 Notes:
 In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
+
+
+
+## Place critical info before a decision point
+
+> New password: **abc123**
+>
+> *Password must include a symbol*
+
+Notes:
+It is best to place critical information before a decision point. For example, if the instructions "password must include a symbol" is placed after the password field, then the user may not see the requirement until after they tried to enter a password. If it is placed before it, the user has a greater chance of success on the first try.
 
 
 
