@@ -895,6 +895,49 @@ Part 5 of 8
 
 
 
+## Omit useless information
+
+Not just useless words
+
+Notes:
+Let's start with some caveats. Making text concise is not just about removing useless words. It is more important to think about it as removing useless information.
+
+
+
+## Comprehension
+
+- **Sighted reader:** 2–5 words per second
+- **Screen reader:** 35 syllables per second
+
+Notes:
+According to the book "Writing is Designing": The average reading time for sighted readers is two to five words per second. Screen-reader users can comprehend text being read at an average of 35 syllables per second, which is significantly faster.
+
+
+
+## Prioritize clarity
+
+> Don't be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
+>
+> — *Writing is Designing* (2020)
+
+Notes:
+Given this: "Don't be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful."
+
+
+
+## Precision
+
+Progressively reveal content with:
+
+- [disclosures](https://rivet.uits.iu.edu/components/disclosure/)
+- [accordions](https://rivet.uits.iu.edu/components/accordion/)
+- links to other pages
+
+Notes:
+Sometimes that extra context is needed when you need to be precise. If you're concerned with the length of content on a page, you can progressively reveal the content. This can be done through disclosures, accordions, and even links to other pages.
+
+
+
 ## Quick and clear
 
 To the point
@@ -916,27 +959,6 @@ Notes:
 In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
 
 What experiences have you had (quick and clear or not quick and clear)?
-
-
-
-## Comprehension
-
-- Sighted reader: 2–5 words per second
-- Screen reader: 35 syllables per second
-
-> Don't be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
->
-> — *Writing is Designing* (2020)
-
-Notes:
-According to the book *Writing is Designing*: The average reading time for sighted readers is two to five words per second. Screen-reader users can comprehend text being read at an average of 35 syllables per second, which is significantly faster. Don't be afraid to sacrifice brevity for clarity, especially when extra context is needed or useful.
-
-
-
-## Precision
-
-Precision tends to be wordy.
-Progressively reveal content with disclosures or links to other pages.
 
 
 
@@ -1022,14 +1044,6 @@ What experiences have you had (turn-based or not turn-based)?
 Replace words with better words
 Repeat
 Editing
-
-
-
-## Omit needless words
-
-
-
-## Omit needless information
 
 
 
