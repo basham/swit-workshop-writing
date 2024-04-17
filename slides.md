@@ -62,7 +62,7 @@ The Web Content Accessibility Guidelines (or WCAG) manages a robust set of guide
 
 
 
-## Resources
+## Workshop slides
 
 https://github.com/basham/swit-workshop-writing
 
@@ -848,30 +848,6 @@ However, if making the text consistent reduces clarity, then it is better to be 
 
 
 
-## Use chronological words
-
-| Spatial | Chronological |
-| --- | --- |
-| Top | Beginning |
-| Bottom | End |
-| Left | Before |
-| Right | After |
-
-Notes:
-Spatial words like top, bottom, left, and right are not appropriate for describing content that can be experienced in linear ways. For example, when a website is on a mobile device, all the content stacks vertically. And when a website is being announced by a screen reader, it reads the content linearly. Words like beginning, end, before, and after should be preferred, because they scale in more contexts.
-
-
-
-## Describe the action
-
-- **Device dependent:** Click, Tap, Press, See
-- **Device independent:** Choose, Select, Use, View
-
-Notes:
-In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
-
-
-
 ## Place critical info before a decision point
 
 > New password: **abc123**
@@ -931,10 +907,10 @@ Progressively reveal content with:
 
 - [disclosures](https://rivet.uits.iu.edu/components/disclosure/)
 - [accordions](https://rivet.uits.iu.edu/components/accordion/)
-- links to other pages
+- links
 
 Notes:
-Sometimes that extra context is needed when you need to be precise. If you're concerned with the length of content on a page, you can progressively reveal the content. This can be done through disclosures, accordions, and even links to other pages.
+Sometimes that extra context is needed when you need to be precise. If you're concerned with the length of content on a page, you can progressively reveal the content. This can be done through disclosures, accordions, and links.
 
 
 
@@ -962,9 +938,115 @@ What experiences have you had (quick and clear or not quick and clear)?
 
 
 
+## Tone 1
+
+> 404 Error: Not found
+
+> We couldn't find the page you're looking for.
+
+
+
+## Tone 2
+
+> Reset your password now.
+
+> Keep your account secure by resetting your password.
+
+> Reset your password to keep your account secure.
+
+
+
+## Tone styles
+
+- Encouraging
+- Informational
+- Trustworthy
+- Sympathetic
+- Motivational
+- Useful
+- Reassuring
+- Supportive
+
+Notes:
+Writing Is Designing (chapter 7)
+
+
+
 # Make writing inclusive
 
 Part 6 of 8
+
+
+
+## Use chronological words
+
+| Spatial | Chronological |
+| --- | --- |
+| Top | Beginning |
+| Bottom | End |
+| Left | Before |
+| Right | After |
+
+Notes:
+Spatial words like top, bottom, left, and right are not appropriate for describing content that can be experienced in linear ways. For example, when a website is on a mobile device, all the content stacks vertically. And when a website is being announced by a screen reader, it reads the content linearly. Words like beginning, end, before, and after should be preferred, because they scale in more contexts.
+
+
+
+## Describe the action
+
+- **Device dependent:** Click, Tap, Press, See
+- **Device independent:** Choose, Select, Use, View
+
+Notes:
+In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
+
+
+
+## Conscious language
+
+- Ability, disability
+- Age
+- Appearance
+- Ethnicity, race, nationality
+- Gender, sex, sexuality
+- Health
+- Socioeconomic status
+- Spirituality, religion, atheism
+
+Notes:
+Conscious Style Guide
+https://karenyin.com/books/csg-book/
+
+
+
+## Pronouns
+
+Use "they" instead of "(s)he" or "he/she".
+
+> (S)He will be in touch within one business day.
+
+> They will be in touch within one business day.
+
+
+
+## Avoid assigning value
+
+| Avoid | Say |
+| --- | --- |
+| wheelchair-bound | wheelchair user |
+| suffers from autism | has autism |
+
+
+
+## Identity
+
+> I hope that I'm inspiring because I worked really hard to be a good
+player. Not because I use a wheelchair.
+
+— Wheelchair basketball player Nina Welfle, *Writing is Designing*
+
+
+
 
 
 
@@ -1149,6 +1231,12 @@ In contrast, a system is not error-tolerant if the expectation does not align wi
 > If the language you use tells a potential user that *you didn't think about their experience when building this thing*, they're not going to use it.
 
 — *Writing is Designing* (2020)
+
+
+
+## Proposal
+
+Add writing guidelines to Rivet
 
 
 
