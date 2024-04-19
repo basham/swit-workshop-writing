@@ -93,27 +93,23 @@ The process for writing can be summarized like this: "Writing UX text is iterati
 
 
 
-## Writing should be…
-
-1. Useful
-2. Usable
-3. Responsible
+## Writing should be useful, usable, kind
 
 Notes:
-In this workshop, we will learn through examples and activities how to make the writing we use in digital products to be useful, usable, and responsible.
+In this workshop, we will learn through examples and activities how to make the writing we use in digital products to be useful, usable, and kind.
 
 
 
-## Make writing useful
+## Useful writing is…
 
 1. Purposeful
 
 Notes:
-We will make writing useful by making it purposeful.
+We will learn how useful writing is purposeful.
 
 
 
-## Make writing usable
+## Usable writing is…
 
 2. Accessible
 3. Navigable
@@ -121,23 +117,21 @@ We will make writing useful by making it purposeful.
 5. Concise
 
 Notes:
-We will make writing usable by making it accessible, navigable, clear, and concise.
+We will learn how usable writing is accessible, navigable, clear, and concise.
 
 
 
-## Make writing responsible
+## Kind writing is…
 
 6. Inclusive
 7. Conversational
 
 Notes:
-We will make writing responsible by making it inclusive and conversational.
-
-Mindful, trustworthy, careful, responsible
+We will learn how kind writing is inclusive and conversational.
 
 
 
-# Make writing purposeful
+# Useful writing is purposeful
 
 Part 1 of 8
 
@@ -265,6 +259,20 @@ Now, I'd like to hear from you. Think about an experience you've had or know abo
 
 
 
+## Questions
+
+Useful writing is purposeful
+
+
+
+# Activities for useful writing
+
+1. Write a meaningful conversation
+2. Make a user journey
+3. Sketch the user interface
+
+
+
 ## Write a meaningful conversation
 
 5-minute activity, 1–2 people
@@ -281,7 +289,7 @@ Now, let's spend up to five minutes on an activity. The goal is to role-play a m
 ## Example situation
 
 - **Customer:** Wants dinner to be delivered for family of four.
-- **Pizza rep:** Wants to orders to be efficient and friendly.
+- **Pizza rep:** Wants orders to be efficient and friendly.
 
 Notes:
 Here's an example situation. The first person is the customer. They want dinner to be delivered for their family of four. The second person is a representative of a local pizza restaurant. They want to make a conversation be as efficient and friendly as possible. These "wants" are their goals for this conversation.
@@ -325,7 +333,7 @@ Now, I'll read through the conversation…
 
 
 
-## User journey
+## Make a user journey
 
 1. Wants to order from Pizza Planet
 2. Pickup or delivery
@@ -336,7 +344,7 @@ Now, I'll read through the conversation…
 
 
 
-## User interface
+## Sketch the user interface
 
 Sketch user journey as steps in a user interface
 
@@ -394,13 +402,7 @@ This activity could be adapted in any number of ways. You could see how the time
 
 
 
-## Questions
-
-Make writing purposeful
-
-
-
-# Make writing accessible
+# Usable writing is accessible
 
 Part 2 of 8
 
@@ -542,11 +544,11 @@ Benton Sans
 
 ## Questions
 
-Make writing accessible
+Usable writing is accessible
 
 
 
-# Make writing navigable
+# Usable writing is navigable
 
 Part 3 of 8
 
@@ -675,25 +677,16 @@ For the second example, the text says "Tap the Search icon in the upper nav". Th
 
 
 
-## Screen reader demo
-
-Navigating with VoiceOver
-
-Notes:
-I'm going to play a recording of me using the macos VoiceOver screen reader to navigate a page. This will help you better understand how these techniques can help a user of this tool navigate a page.
-
-
-
 ## Questions
 
-Make writing navigable
+Usable writing is navigable
 
 Notes:
 What questions do you have about making writing navigable?
 
 
 
-# Make writing clear
+# Usable writing is clear
 
 Part 4 of 8
 
@@ -899,11 +892,11 @@ It is best to place critical information before a decision point. For example, i
 
 ## Questions
 
-Make writing clear
+Usable writing is clear
 
 
 
-# Make writing concise
+# Usable writing is concise
 
 Part 5 of 8
 
@@ -982,9 +975,10 @@ Use active voice instead of passive voice. This will clarify the responsibilitie
 - Headings
 - Lists
 - Paragraphs
+- Tables
 
 Notes:
-Break up long blocks of content to make it easier to skim and understand. Break sentences containing lists into into bulleted lists. Break up long paragraphs into multiple paragraphs. Break up related content into sections with headings.
+Break up long blocks of content to make it easier to skim and understand. Break sentences containing lists into into bulleted lists. Break up similar data points into tables. Break up long paragraphs into multiple paragraphs. Break up related content into sections with headings.
 
 
 
@@ -1029,11 +1023,57 @@ Given this: "Don't be afraid to sacrifice brevity for clarity, especially when e
 
 ## Questions
 
-Make writing concise
+Usable writing is concise
 
 
 
-# Make writing inclusive
+# Activities for usable writing
+
+1. Read aloud
+2. Paraphrase testing
+3. Content testing
+
+Notes:
+Now let's explore some ways you can try to make your writing more usable.
+
+
+
+## Read aloud
+
+- **Participants:** You
+- Listen for odd or unnatural phrasing
+- Tweak content and repeat
+
+Notes:
+Read aloud content to see how natural the writing sounds. If it sounds odd or unnatural, then change the wording and try again.
+
+
+
+## Paraphrase testing
+
+- **Participants:** 5–9
+- Read content, then paraphrase it
+- Look for misunderstandings
+
+Notes:
+Conduct paraphrase testing with 5 to 9 participants to understand how they interpret the content. Ask them to read a section of content and then paraphrase it in their own words. After conducting the tests, analyze the responses and look for misunderstandings. Adjust the content as needed and test again as necessary.
+
+https://www.plainlanguage.gov/guidelines/test/paraphrase-testing/
+
+
+
+## Content testing
+
+- **Participants:** 5–9
+- Circle content that is helpful
+- Underline content that is not helpful
+
+Notes:
+Conduct content testing with 5 to 9 participants to evaluate the helpfulness of content. Ask participants to circle content that is helpful, and also underline content that is confusing or not helpful.
+
+
+
+# Kind writing is inclusive
 
 Part 6 of 8
 
@@ -1161,11 +1201,11 @@ Articles and resources on these topics can be explored more on the Conscious Sty
 
 ## Questions
 
-Make writing inclusive
+Kind writing is inclusive
 
 
 
-# Make writing contextual
+# Kind writing is conversational
 
 Part 7 of 8
 
@@ -1295,16 +1335,19 @@ Writing Is Designing (chapter 7)
 
 
 
-## Proposal
+## Questions
+
+Kind writing is conversational
+
+
+
+# Proposal
 
 Add writing guidelines to Rivet
 
 
 
-# Thank you
-
-Make your writing  
-useful, usable, and responsible
+# Make your writing useful, usable, kind
 
 https://github.com/basham/swit-workshop-writing
 
