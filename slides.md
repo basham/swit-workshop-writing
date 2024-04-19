@@ -1012,10 +1012,9 @@ Part 6 of 8
 
 - Technology
 - Identity
-- Values
 
 Notes:
-The words we use should make people feel included and welcome. In this part, we will explore how we can be considerate of the choices people make regarding their technology, identity, and values.
+The words we use should make people feel included and welcome. This is a huge topic but we will start by exploring how we can be considerate of the choices people make regarding their technology and identity.
 
 
 
@@ -1045,11 +1044,25 @@ In general, do not use words that describe the what the user should do with thei
 
 
 
+## Tasks over roles
+
+| Don't say | Say |
+| --- | --- |
+| Saws are for carpenters. | Saws help you to shape wood. |
+
+Notes:
+Don't tie a tool or product to a role. Instead, describe how a tool or product can benefit the user when trying to accomplish a task. For example, don't say "Saws are for carpenters" but say "Saws help you to shape wood". This wording change invites everyone to work on wood crafts, regardless of their experience.
+
+
+
 ## Use "they"
 
 | Don't say | Say |
 | --- | --- |
 | (S)He will be in touch. | They will be in touch. |
+
+Notes:
+The word "they" is a neutral way to talk about a person because it doesn't imply a gender. So, rather than writing something clunky like "she/he" or "(s)he", just say "they". "They will be in touch."
 
 
 
@@ -1061,31 +1074,22 @@ In general, do not use words that describe the what the user should do with thei
 | suffers from autism | has autism |
 
 Notes:
-Don't assign value.
-
-
-
-## Tasks over roles
-
-| Don't say | Say |
-| --- | --- |
-| Saws are for carpenters. | Saws help you to shape wood. |
-
-Notes:
-Don't tie a tool or product to a role. Instead, describe how a tool or product can benefit the user when trying to accomplish a task. For example, don't say "Saws are for carpenters" but say "Saws help you to shape wood". This wording change invites everyone regardless of their experience in wood crafts.
+Don't assign value (especially negative value) to things that describe a person. For example, instead of "wheelchair-bound" say "wheelchair user". Instead of "suffers from autism" say "has autism". Just state the facts in a neutral way.
 
 
 
 ## Identity
 
-> I hope that I'm inspiring because I worked really hard to be a good
-player. Not because I use a wheelchair.
+> I hope that I'm inspiring because I worked really hard to be a good [basketball] player. Not because I use a wheelchair.
 >
-> — Wheelchair basketball player Nina Welfle, *Writing is Designing*
+> — Nina Welfle, *Writing is Designing*
+
+Notes:
+We should respect how people identity themselves. For example, the book *Writing is Designing* talked about an accomplished national athlete named Nina. She said: "I hope that I'm inspiring because I worked really hard to be a good [basketball] player. Not because I use a wheelchair."
 
 
 
-## Conscious language
+## More topics
 
 - Ability, disability
 - Age
@@ -1097,14 +1101,30 @@ player. Not because I use a wheelchair.
 - Spirituality, religion, atheism
 
 Notes:
-Conscious Style Guide
-https://karenyin.com/books/csg-book/
+There are many more topics that could be explored than just technology and identity. They include ability, disability, age, appearance, ethnicity, race, nationality, gender, sex, sexuality, health, socioeconomic status, spirituality, religion, and atheism.
+
+
+
+## Conscious Style Guide
+
+Book to be published May 28
+
+https://consciousstyleguide.com/
+
+Notes:
+These topics can be explored more on the Conscious Style Guide website. There will be a book released on May 28 as well.
 
 
 
 # Make writing contextual
 
 Part 7 of 8
+
+
+
+## Stress cases
+
+Not edge cases
 
 
 
