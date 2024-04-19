@@ -953,7 +953,7 @@ Use active voice instead of passive voice. This will clarify the responsibilitie
 - Paragraphs
 
 Notes:
-Long blocks of content can be difficult to understand. Break sentences containing lists into into bulleted lists. Break up long paragraphs into multiple paragraphs. Break up related content into sections with headings.
+Break up long blocks of content to make it easier to skim and understand. Break sentences containing lists into into bulleted lists. Break up long paragraphs into multiple paragraphs. Break up related content into sections with headings.
 
 
 
@@ -1107,12 +1107,19 @@ There are many more topics that could be explored than just technology and ident
 
 ## Conscious Style Guide
 
-Book to be published May 28
+https://consciousstyleguide.com
 
-https://consciousstyleguide.com/
+- Articles and resources
+- Book to be published May 28
 
 Notes:
-These topics can be explored more on the Conscious Style Guide website. There will be a book released on May 28 as well.
+Articles and resources on these topics can be explored more on the Conscious Style Guide website. There will be a book released on May 28 as well.
+
+
+
+## Questions
+
+Make writing inclusive
 
 
 
@@ -1125,6 +1132,32 @@ Part 7 of 8
 ## Stress cases
 
 Not edge cases
+
+
+
+## Context-aware
+
+Sensitive to time, place, preferences
+
+> **Phone notification:** Would you like to automatically turn on Silent Mode when you arrive at the movie theater?
+
+Notes:
+Third, the system should be context-aware. It should be sensitive to circumstances, such as time of day, location of the user, and any preferences the user has set. For example, a person's phone may be aware that they are going to a movie theater this evening, according to their calendar. Before leaving, the phone asks if silent mode should be turned on once they arrive, in order to avoid disturbing others during the movie.
+
+
+
+## (Not context-aware)
+
+Generic, insensitive, assumptions
+
+> **Email:** Exciting news! You have been invited to "Celebrating the life of Jack." RSVP now!
+
+Notes:
+In contrast, a system can cause emotional distress if it does not tailor messaging for the situation. For example, an event platform that assumes that all events are a joyous occasion is insensitive to situations like a memorial arranged for friends and family of someone who recently died.
+
+https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
+
+What experiences have you had (context-aware or not context-aware)?
 
 
 
@@ -1209,25 +1242,6 @@ Writing Is Designing (chapter 7)
 
 
 
-## Skimming
-
-Structure content with:
-
-- Headings
-- Landmarks
-- Short paragraphs
-
-Notes:
-Skimming is a behavior that is used whether you are sighted or not or whether you have a mental impairment or not. Break up content with headings, landmarks, and short paragraphs to facilitate skimming.
-
-
-
-## Process
-
-Editing
-
-
-
 ## Iterative
 
 > Writing UX text is iterative, starting with less-than-perfect words, then replacing those words with slightly better words, and repeating until you find the best words. This is the way to make the text purposeful and protective, but also concise, conversational, and recognizable as coming from the organization’s brand.
@@ -1268,44 +1282,10 @@ What experiences have you had (turn-based or not turn-based)?
 
 
 
-## Iteration
-
-Replace words with better words
-Repeat
-Editing
-
-
-
 # Make writing responsible
 
 Notes:
 …
-
-
-
-## Context-aware
-
-Sensitive to time, place, preferences
-
-> **Phone notification:** Would you like to automatically turn on Silent Mode when you arrive at the movie theater?
-
-Notes:
-Third, the system should be context-aware. It should be sensitive to circumstances, such as time of day, location of the user, and any preferences the user has set. For example, a person's phone may be aware that they are going to a movie theater this evening, according to their calendar. Before leaving, the phone asks if silent mode should be turned on once they arrive, in order to avoid disturbing others during the movie.
-
-
-
-## (Not context-aware)
-
-Generic, insensitive, assumptions
-
-> **Email:** Exciting news! You have been invited to "Celebrating the life of Jack." RSVP now!
-
-Notes:
-In contrast, a system can cause emotional distress if it does not tailor messaging for the situation. For example, an event platform that assumes that all events are a joyous occasion is insensitive to situations like a memorial arranged for friends and family of someone who recently died.
-
-https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
-
-What experiences have you had (context-aware or not context-aware)?
 
 
 
