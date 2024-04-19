@@ -139,8 +139,18 @@ html {
 .reveal table th,
 .reveal table td {
 	border-bottom: 1px solid;
-	padding: 0.25rem;
+	padding: 0.25rem 0.5rem;
 	text-align: left;
+}
+
+.reveal table th:first-child,
+.reveal table td:first-child {
+	padding-left: 0;
+}
+
+.reveal table th:last-child,
+.reveal table td:last-child {
+	padding-right: 0;
 }
 
 .reveal table th[align="center"],

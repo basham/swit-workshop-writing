@@ -294,6 +294,23 @@ Now, I'll read through the conversation…
 
 
 
+## User journey
+
+1. Wants to order from Pizza Planet
+2. Pickup or delivery
+3. Order details
+4. Payment
+5. Order tracking
+6. Confirmation
+
+
+
+## User interface
+
+Sketch user journey as steps in a user interface
+
+
+
 ## Variations on pizza order
 
 1. Pizza rep is unaware that they're out of pineapple.
@@ -343,16 +360,6 @@ Change:
 
 Notes:
 This activity could be adapted in any number of ways. You could see how the time, place, or environment may affect the conversation; how any mental or physical impairments may affect the conversation; or make it so  or mental state of one or both person affects the conversation; or alter the outcome so that maybe only one or none of their goals are met.
-
-
-
-## Activity expansions
-
-1. Build a user journey.
-2. Sketch wireframes.
-
-Notes:
-These conversations can used to start additional activities. For example, a user journey is 
 
 
 
@@ -871,22 +878,110 @@ Part 5 of 8
 
 
 
-## Omit useless information
+## Be concise
 
-Not just useless words
+- Shorten content
+- Break up content
+- Disclose content
 
 Notes:
-Let's start with some caveats. Making text concise is not just about removing useless words. It is more important to think about it as removing useless information.
+We will cover three ways to be concise: by shortening content, by breaking up content, and by disclosing content.
+
+
+
+## Omit useless information
+
+- Context
+- Facts
+- Requirements
+
+Notes:
+First of all, look for useless information. Limit the purpose of a page, to limit the information needed. This will clarify the particular context, facts, and requirements that should be displayed on any given page. If it doesn't help the user accomplish their purpose for visiting a page, it is a distraction that should be removed.
+
+
+
+## Beware of prepositional phrases
+
+Such as: "of", "to", "on"
+
+| Don't say | Say |
+| --- | --- |
+| a number of | several, a few, many |
+| is able to | can |
+| in order to | to |
+| on a yearly basis | yearly |
+
+Notes:
+Many prepositional phrases can be shortened with fewer words. For example, instead of saying "a number of", say "several" or "a few" or "many." Instead of "is able to" say "can." Instead of "in order to" say "to". Instead of "on a yearly basis" say "yearly".
+
+
+
+## Beware of adverbs
+
+- definitely
+- extremely
+- really
+- truly
+- very
+
+Notes:
+Some adverbs don't add value and can generally be eliminated, such as: definitely, extremely, really, truly, and very.
+
+https://prowritingaid.com/Adverbs
+
+
+
+## Use active voice
+
+Clarify responsibilities
+
+| Passive voice | Active voice |
+| --- | --- |
+| It was done. | We did it. |
+| It was done by them. | They did it. |
+| It must be done. | You must do it. |
+
+Notes:
+Use active voice instead of passive voice. This will clarify the responsibilities of the subject in the sentence with pronouns and sometimes shorten the sentence length. For example, instead of "It was done" say "We did it". Instead of "It was done by them" say "They did it". Instead of "It must be done" say "You must do it".
+
+
+
+## Break up content
+
+- Headings
+- Lists
+- Paragraphs
+
+Notes:
+Long blocks of content can be difficult to understand. Break sentences containing lists into into bulleted lists. Break up long paragraphs into multiple paragraphs. Break up related content into sections with headings.
+
+
+
+## Disclose content
+
+- [Accordions](https://rivet.uits.iu.edu/components/accordion/)
+- [Disclosures](https://rivet.uits.iu.edu/components/disclosure/)
+- Links
+
+Notes:
+Some content may be helpful to some users but an annoyance to other users. Allow users to opt in to seeing additional content with accordions, disclosures, or links.
 
 
 
 ## Comprehension
 
-- **Sighted reader:** 2–5 words per second
-- **Screen reader:** 35 syllables per second
+| Speaker | Words per minute |
+| --- | --- |
+| Person | 120–150 |
+| Screen reader | 450 (3 times faster) |
 
 Notes:
-According to the book "Writing is Designing": The average reading time for sighted readers is two to five words per second. Screen-reader users can comprehend text being read at an average of 35 syllables per second, which is significantly faster.
+A person averages to say aloud 120 to 150 words per minute. In contrast, screen reader users commonly configure its reading speed to be several times faster than that.
+
+https://boingboing.net/2017/08/28/this-blind-software-developer.html
+
+"The average syllable length is 3 letters and 0.6 words."
+https://strainindex.wordpress.com/2010/03/13/syllable-word-and-sentence-length/
 
 
 
@@ -901,16 +996,121 @@ Given this: "Don't be afraid to sacrifice brevity for clarity, especially when e
 
 
 
-## Precision
+## Questions
 
-Progressively reveal content with:
+Make writing concise
 
-- [disclosures](https://rivet.uits.iu.edu/components/disclosure/)
-- [accordions](https://rivet.uits.iu.edu/components/accordion/)
-- links
+
+
+# Make writing inclusive
+
+Part 6 of 8
+
+
+
+## Be inclusive
+
+- Technology
+- Identity
+- Values
 
 Notes:
-Sometimes that extra context is needed when you need to be precise. If you're concerned with the length of content on a page, you can progressively reveal the content. This can be done through disclosures, accordions, and links.
+The words we use should make people feel included and welcome. In this part, we will explore how we can be considerate of the choices people make regarding their technology, identity, and values.
+
+
+
+## Use chronological words
+
+| Spatial | Chronological |
+| --- | --- |
+| Top | Beginning |
+| Bottom | End |
+| Left | Before |
+| Right | After |
+
+Notes:
+Spatial words like top, bottom, left, and right are not appropriate for describing content that can be experienced in linear ways. For example, when a website is on a mobile device, all the content stacks vertically. And when a website is being announced by a screen reader, it reads the content linearly. Words like beginning, end, before, and after should be preferred, because they scale in more contexts.
+
+
+
+## Describe the action
+
+- **Device dependent:**  
+Click, Tap, Press, See
+- **Device independent:**  
+Choose, Select, Use, View
+
+Notes:
+In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
+
+
+
+## Use "they"
+
+| Don't say | Say |
+| --- | --- |
+| (S)He will be in touch. | They will be in touch. |
+
+
+
+## Be neutral
+
+| Don't say | Say |
+| --- | --- |
+| wheelchair-bound | wheelchair user |
+| suffers from autism | has autism |
+
+Notes:
+Don't assign value.
+
+
+
+## Tasks over roles
+
+| Don't say | Say |
+| --- | --- |
+| Saws are for carpenters. | Saws help you to shape wood. |
+
+Notes:
+Don't tie a tool or product to a role. Instead, describe how a tool or product can benefit the user when trying to accomplish a task. For example, don't say "Saws are for carpenters" but say "Saws help you to shape wood". This wording change invites everyone regardless of their experience in wood crafts.
+
+
+
+## Identity
+
+> I hope that I'm inspiring because I worked really hard to be a good
+player. Not because I use a wheelchair.
+>
+> — Wheelchair basketball player Nina Welfle, *Writing is Designing*
+
+
+
+## Conscious language
+
+- Ability, disability
+- Age
+- Appearance
+- Ethnicity, race, nationality
+- Gender, sex, sexuality
+- Health
+- Socioeconomic status
+- Spirituality, religion, atheism
+
+Notes:
+Conscious Style Guide
+https://karenyin.com/books/csg-book/
+
+
+
+# Make writing contextual
+
+Part 7 of 8
+
+
+
+# Make writing human
+
+Part 8 of 8
 
 
 
@@ -935,6 +1135,23 @@ Notes:
 In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
 
 What experiences have you had (quick and clear or not quick and clear)?
+
+
+
+## Voice
+
+What is said
+
+(information)
+
+
+
+## Tone
+
+How it is said
+
+(mood, emotion, feeling)
+
 
 
 
@@ -969,96 +1186,6 @@ What experiences have you had (quick and clear or not quick and clear)?
 
 Notes:
 Writing Is Designing (chapter 7)
-
-
-
-# Make writing inclusive
-
-Part 6 of 8
-
-
-
-## Use chronological words
-
-| Spatial | Chronological |
-| --- | --- |
-| Top | Beginning |
-| Bottom | End |
-| Left | Before |
-| Right | After |
-
-Notes:
-Spatial words like top, bottom, left, and right are not appropriate for describing content that can be experienced in linear ways. For example, when a website is on a mobile device, all the content stacks vertically. And when a website is being announced by a screen reader, it reads the content linearly. Words like beginning, end, before, and after should be preferred, because they scale in more contexts.
-
-
-
-## Describe the action
-
-- **Device dependent:** Click, Tap, Press, See
-- **Device independent:** Choose, Select, Use, View
-
-Notes:
-In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
-
-
-
-## Conscious language
-
-- Ability, disability
-- Age
-- Appearance
-- Ethnicity, race, nationality
-- Gender, sex, sexuality
-- Health
-- Socioeconomic status
-- Spirituality, religion, atheism
-
-Notes:
-Conscious Style Guide
-https://karenyin.com/books/csg-book/
-
-
-
-## Pronouns
-
-Use "they" instead of "(s)he" or "he/she".
-
-> (S)He will be in touch within one business day.
-
-> They will be in touch within one business day.
-
-
-
-## Avoid assigning value
-
-| Avoid | Say |
-| --- | --- |
-| wheelchair-bound | wheelchair user |
-| suffers from autism | has autism |
-
-
-
-## Identity
-
-> I hope that I'm inspiring because I worked really hard to be a good
-player. Not because I use a wheelchair.
-
-— Wheelchair basketball player Nina Welfle, *Writing is Designing*
-
-
-
-
-
-
-# Make writing contextual
-
-Part 7 of 8
-
-
-
-# Make writing human
-
-Part 8 of 8
 
 
 
