@@ -75,34 +75,65 @@ All resources for this workshop, including slides, slide notes, and links, are l
 
 > …is not the problem that we solve as UX writers. We communicate. We invite action. We inspire loyalty. Our teams need to know that UX writing can be used to solve problems.
 >
-> — *Strategic Writing for UX* (2019)
+> — *Strategic Writing for UX*
 
 Notes:
-"We need words is not the problem that we solve as UX writers," according to the book "Strategic Writing for UX." "We communicate. We invite action. We inspire loyalty. Our teams need to know that UX writing can be used to solve problems.
+"We need words is not the problem that we solve as UX writers," according to the book "Strategic Writing for UX." "We communicate. We invite action. We inspire loyalty. Our teams need to know that UX writing can be used to solve problems."
 
 
 
-## Words should be…
+## Iterative
+
+> Writing UX text is iterative, starting with less-than-perfect words, then replacing those words with slightly better words, and repeating until you find the best words.
+>
+> — *Strategic Writing for UX*
+
+Notes:
+The process for writing can be summarized like this: "Writing UX text is iterative, starting with less-than-perfect words, then replacing those words with slightly better words, and repeating until you find the best words."
+
+
+
+## Writing should be…
 
 1. Useful
 2. Usable
 3. Responsible
 
 Notes:
-How do we do this? The words we use in digital products should be useful, usable, and responsible. In this workshop, we will learn through examples and activities how to make our writing useful, usable, and responsible.
+In this workshop, we will learn through examples and activities how to make the writing we use in digital products to be useful, usable, and responsible.
 
 
 
-## Make writing…
+## Make writing useful
 
 1. Purposeful
-2. Legible
+
+Notes:
+We will make writing useful by making it purposeful.
+
+
+
+## Make writing usable
+
+2. Accessible
 3. Navigable
 4. Clear
 5. Concise
+
+Notes:
+We will make writing usable by making it accessible, navigable, clear, and concise.
+
+
+
+## Make writing responsible
+
 6. Inclusive
-7. Contextual
-8. Human
+7. Conversational
+
+Notes:
+We will make writing responsible by making it inclusive and conversational.
+
+Mindful, trustworthy, careful, responsible
 
 
 
@@ -369,12 +400,12 @@ Make writing purposeful
 
 
 
-# Make writing legible
+# Make writing accessible
 
 Part 2 of 8
 
 Notes:
-In Part 1, we learned that writing is purposeful when it helps to achieve goals. In Part 2, we will learn how to make writing legible.
+In Part 1, we learned that writing is purposeful when it helps to achieve goals. In Part 2, we will learn how to make writing accessible.
 
 
 
@@ -386,7 +417,7 @@ In Part 1, we learned that writing is purposeful when it helps to achieve goals.
 - Layout
 
 Notes:
-Writing is legible if readers have the ability to distinguish the content in a text and perceive it as words and concepts.
+Writing is accessible if readers have the ability to distinguish the content in a text and perceive it as words and concepts.
 
 Here are seven success criteria that WCAG makes that addresses the question, "Can you read this?" I'll briefly review these.
 
@@ -511,7 +542,7 @@ Benton Sans
 
 ## Questions
 
-Make writing legible
+Make writing accessible
 
 
 
@@ -520,7 +551,7 @@ Make writing legible
 Part 3 of 8
 
 Notes:
-Now that the writing has a purpose and it is legible, now let's examine how we can make it navigable.
+Now that the writing has a purpose and it is accessible, now let's examine how we can make it navigable.
 
 
 
@@ -1008,13 +1039,24 @@ Part 6 of 8
 
 
 
+## Inclusive language
+
+> If the language you use tells a potential user that *you didn't think about their experience when building this thing*, they're not going to use it.
+>
+> — *Writing is Designing*
+
+Notes:
+The words we use should make people feel included and welcome. But as the book *Writing is Designing* states: "If the language you use tells a potential user that *you didn't think about their experience when building this thing*, they're not going to use it."
+
+
+
 ## Be inclusive
 
 - Technology
 - Identity
 
 Notes:
-The words we use should make people feel included and welcome. This is a huge topic but we will start by exploring how we can be considerate of the choices people make regarding their technology and identity.
+This is a huge topic. But we will focus on just two aspects: How we can be considerate of the choices people make regarding their technology and identity.
 
 
 
@@ -1161,9 +1203,20 @@ What experiences have you had (context-aware or not context-aware)?
 
 
 
-# Make writing human
+# Make writing conversational
 
 Part 8 of 8
+
+
+
+## Conversational
+
+- Error tolerant
+- Polite
+- Tone
+- Contextual
+- Turn based
+- Truthful
 
 
 
@@ -1242,125 +1295,6 @@ Writing Is Designing (chapter 7)
 
 
 
-## Iterative
-
-> Writing UX text is iterative, starting with less-than-perfect words, then replacing those words with slightly better words, and repeating until you find the best words. This is the way to make the text purposeful and protective, but also concise, conversational, and recognizable as coming from the organization’s brand.
->
-> — *Strategic Writing for UX*
-
-
-
-## Turn-based
-
-Clarity regarding who should respond
-
-> - **A:** What is your position? Over.
-> - **B:** Two clicks south. Over.
-> - **A:** Proceed as planned. Over and out.
-
-Notes:
-Fifth, a system should be turn-based. It should be made clear when one party is done responding and ready to receive a reply. For example, procedure words are special instructions people use for radio communication. Ending a response with "Over" is a quick and respectful way to mean that the person is done talking but they are waiting and listening for a rely. "Over and out" means the person is done listening.
-
-https://en.wikipedia.org/wiki/Procedure_word
-
-
-
-## (Not turn-based)
-
-Monologues or interruptions
-
-> - **A:** (Rambling…)
-> - **B:** Excuse me…
-> - **A:** (Still rambling…)
-> - **B:** Can I just…
-> - **A:** (Rambling continues…)
-
-Notes:
-In contrast, when there is no space for responses, one party can dominate. This means the dialog is actually a monologue. A person wanting to have a conversation may be forced to interrupt the other who may just be rambling.
-
-What experiences have you had (turn-based or not turn-based)?
-
-
-
-# Make writing responsible
-
-Notes:
-…
-
-
-
-## Truthful
-
-Credible, verifiable, not confusing
-
-> **Email from charity:**  
-> Thank you for donating! We will email you quarterly reports detailing how your money is benefiting the cause.
-
-Notes:
-Sixth, a system should be truthful. What it says should be credible, verifiable, and not confusing. For example, a person who just donated to a charity received an email. It states, "Thank you for donating! We will email you quarterly reports detailing how your money is benefiting the cause." The message confirms the donation, but it also provides a way for the person to verify that the donation will be used as they intended. This gives the person confidence, which encourages them to continue their relationship with the charity.
-
-
-
-## (Not truthful)
-
-Expectation does not meet reality
-
-> - **Note from ISP:** Sorry we missed you! Call this number to talk with us.
-> - **Customer:** (Calls phone number.) Is this my internet service provider?
-> - **Person called:** Why am I still getting these calls!? Wrong number!
-
-Notes:
-In contrast, a system is not truthful if the expectation does not align with reality. In this example, a customer could not immediately respond to a knock on the door. The technician they were expecting left a note that printed a phone number to call. The customer calls it, but instead of reaching anyone associated with the service provider, it called an unrelated personal phone number. The printed phone number was incorrect, and has been incorrect for months. This typo has made it frustrating for both you and this other person.
-
-What experiences have you had (truthful or not truthful)?
-
-
-
-## Polite
-
-Respect time, anticipate needs
-
-> 
-
-
-
-## (Not polite)
-
-Wastes time, rude
-
-> - **Popup:** Spin this wheel to win!
-> - **Person:** I'm just trying to read this article! I can't find the close button!
-
-
-
-## Error-tolerant
-
-Anticipates errors, recovers seamlessly
-
-> - **A:** Turn right on Main St in two blocks.
-> - **B:** Main St is in three blocks. Is the turn at Main St or in three blocks?
-
-
-
-## (Not error-tolerant)
-
-> - Technician arrives early, while customer is returning home.
-> - Knocks on door, to no answer.
-> - Leaves before appointment time.
-
-Notes:
-In contrast, a system is not error-tolerant if the expectation does not align with reality. In this example, a customer arrived home a couple minutes before a technician from their internet service provider was scheduled to arrive. They read a note on their door claiming the technician a
-
-
-
-## Inclusive language
-
-> If the language you use tells a potential user that *you didn't think about their experience when building this thing*, they're not going to use it.
-
-— *Writing is Designing* (2020)
-
-
-
 ## Proposal
 
 Add writing guidelines to Rivet
@@ -1369,7 +1303,7 @@ Add writing guidelines to Rivet
 
 # Thank you
 
-Write words that are  
+Make your writing  
 useful, usable, and responsible
 
 https://github.com/basham/swit-workshop-writing
