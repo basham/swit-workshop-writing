@@ -265,140 +265,12 @@ Useful writing is purposeful
 
 
 
-# Activities for useful writing
+# Activity for useful writing
+
+https://go.iu.edu/7M0G
 
 1. Write a meaningful conversation
 2. Make a user journey
-3. Sketch the user interface
-
-
-
-## Write a meaningful conversation
-
-5-minute activity, 1–2 people
-
-1. Select roles and goals of two people.
-2. Write their conversation as a text message.
-3. Finish when both sides achieve their goals.
-
-Notes:
-Now, let's spend up to five minutes on an activity. The goal is to role-play a meaningful conversation as if you're chatting over text. Select roles for the two people in the conversation, along with their individual goals. Finish when both sides achieve their goals. If done alone, then you just write down the full conversation. If done with someone else, then just act as one of the two people in the conversation. After the time concludes, we will discuss the activity.
-
-
-
-## Example situation
-
-- **Customer:** Wants dinner to be delivered for family of four.
-- **Pizza rep:** Wants orders to be efficient and friendly.
-
-Notes:
-Here's an example situation. The first person is the customer. They want dinner to be delivered for their family of four. The second person is a representative of a local pizza restaurant. They want to make a conversation be as efficient and friendly as possible. These "wants" are their goals for this conversation.
-
-
-
-## Example conversation
-
-> **Pizza rep:** Welcome to Pizza Planet. Is this for pickup or delivery?
->
-> **Customer:** Delivery, please.
->
-> **Pizza rep:** I see from your phone number that you've ordered from us last month. Would you like the same order or something different?
-
-Notes:
-Now, I'll read through the conversation…
-
-
-
-> **Customer:** Remind me, what was the last order?
->
-> **Pizza rep:** It was a large with feta, garlic, and pineapple. The breadsticks came with cheese sauce.
->
-> **Customer:** Let's go with that.
-
-
-
-> **Pizza rep:** That will be $26.50, with tax and delivery fee included. Do you want to pay with your credit card on file or at time of delivery?
->
-> **Customer:** I'll pay upon delivery.
->
-> **Pizza rep:** It should be delivered to your address on file in about 20 minutes. Would you like to receive text message updates to track the delivery?
->
-> **Customer:** Sure!
-
-
-
-> **Pizza rep:** Is there anything else I can help you with?
->
-> **Customer:** No, that will be all. Thank you!
-
-
-
-## Make a user journey
-
-1. Wants to order from Pizza Planet
-2. Pickup or delivery
-3. Order details
-4. Payment
-5. Order tracking
-6. Confirmation
-
-
-
-## Sketch the user interface
-
-Sketch user journey as steps in a user interface
-
-
-
-## Variations on pizza order
-
-1. Pizza rep is unaware that they're out of pineapple.
-2. Pizza rep gives incorrect delivery time.
-3. Customer forgot to update delivery address since their move.
-4. Customer makes call in a loud room in the house.
-
-Notes:
-There are countless ways this conversation could be played out. For example: [Read the variations.] There is no right or wrong outcome for the purpose of this activity. But don't focus on editing or refining the content of the conversation. Once you say something out loud, you can't un-say it. So just start and work forward.
-
-
-
-## Sample situations
-
-1. Customer schedules haircut.
-2. Customer buys corn at the farmers market.
-3. Customer asks post office about missing package.
-4. Friend invites you to their birthday party.
-5. Friend asks you to care for their pet this weekend.
-
-Notes:
-You could use the pizza ordering situation as the basis for your activity. Or you could use one of these provided on this slide. [Read off samples.] Or, you could invent your own.
-
-[Perhaps everyone votes to select a situation that everyone does.]
-
-Any questions before we start?
-
-
-
-## Start activity
-
-5 minutes
-
-
-
-## Discuss activity
-
-
-
-## Activity variations
-
-Change:
-
-- Time, place, environment
-- Mental/physical impairments
-- Outcome
-
-Notes:
-This activity could be adapted in any number of ways. You could see how the time, place, or environment may affect the conversation; how any mental or physical impairments may affect the conversation; or make it so  or mental state of one or both person affects the conversation; or alter the outcome so that maybe only one or none of their goals are met.
 
 
 
@@ -940,7 +812,7 @@ Many prepositional phrases can be shortened with fewer words. For example, inste
 
 
 
-## Beware of adverbs
+## Remove empty adverbs
 
 - definitely
 - extremely
