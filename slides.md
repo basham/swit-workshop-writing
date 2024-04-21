@@ -64,7 +64,7 @@ The Web Content Accessibility Guidelines (or WCAG) manages a robust set of guide
 
 ## Workshop slides
 
-https://github.com/basham/swit-workshop-writing
+https://go.iu.edu/7TRp
 
 Notes:
 All resources for this workshop, including slides, slide notes, and links, are located on GitHub. I'll show this link at the end of the workshop again.
@@ -133,7 +133,7 @@ We will learn how kind writing is inclusive and conversational.
 
 # Useful writing is purposeful
 
-Part 1 of 8
+Part 1 of 7
 
 Notes:
 Part 1. Writing should be purposeful.
@@ -276,7 +276,7 @@ https://go.iu.edu/7M0G
 
 # Usable writing is accessible
 
-Part 2 of 8
+Part 2 of 7
 
 Notes:
 In Part 1, we learned that writing is purposeful when it helps to achieve goals. In Part 2, we will learn how to make writing accessible.
@@ -422,7 +422,7 @@ Usable writing is accessible
 
 # Usable writing is navigable
 
-Part 3 of 8
+Part 3 of 7
 
 Notes:
 Now that the writing has a purpose and it is accessible, now let's examine how we can make it navigable.
@@ -560,7 +560,7 @@ What questions do you have about making writing navigable?
 
 # Usable writing is clear
 
-Part 4 of 8
+Part 4 of 7
 
 Notes:
 Now that you can read and use the text, let's learn how to make the writing clear and understandable.
@@ -770,7 +770,7 @@ Usable writing is clear
 
 # Usable writing is concise
 
-Part 5 of 8
+Part 5 of 7
 
 
 
@@ -947,7 +947,7 @@ Conduct content testing with 5 to 9 participants to evaluate the helpfulness of 
 
 # Kind writing is inclusive
 
-Part 6 of 8
+Part 6 of 7
 
 
 
@@ -1079,13 +1079,25 @@ Kind writing is inclusive
 
 # Kind writing is conversational
 
-Part 7 of 8
+Part 7 of 7
 
 
 
 ## Stress cases
 
 Not edge cases
+
+
+
+
+## Conversational
+
+- Context-aware
+- Error tolerant
+- Polite
+- Turn based
+- Truthful
+- Personal
 
 
 
@@ -1112,23 +1124,6 @@ In contrast, a system can cause emotional distress if it does not tailor messagi
 https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
 
 What experiences have you had (context-aware or not context-aware)?
-
-
-
-# Make writing conversational
-
-Part 8 of 8
-
-
-
-## Conversational
-
-- Error tolerant
-- Polite
-- Tone
-- Contextual
-- Turn based
-- Truthful
 
 
 
@@ -1213,15 +1208,19 @@ Kind writing is conversational
 
 
 
-# Proposal
+# Activity for kind writing
 
-Add writing guidelines to Rivet
+https://go.iu.edu/7TRd
+
+1. Make the conversation messy
+2. Contemplate the emotional journey
 
 
 
 # Make your writing useful, usable, kind
 
-https://github.com/basham/swit-workshop-writing
+Workshop slides:  
+https://go.iu.edu/7TRp
 
 Notes:
 Once again, the slides and additional resources are on GitHub. Feel free to follow up with me as you need. Thank you for joining me today.
