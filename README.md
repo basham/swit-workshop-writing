@@ -21,7 +21,7 @@ The words we use and how we use them in apps and websites should solve problems,
 
 - [Writing for Product Teams](https://basham.github.io/swit-workshop-writing/)
 - [Useful writing is purposeful](https://basham.github.io/swit-workshop-writing/#/13) (part 1)
-- [Activity for useful writing](https://basham.github.io/swit-workshop-writing/#/26)
+- [Activities for useful writing](https://basham.github.io/swit-workshop-writing/#/26)
 - [Usable writing is accessible](https://basham.github.io/swit-workshop-writing/#/27) (part 2)
 - [Usable writing is navigable](https://basham.github.io/swit-workshop-writing/#/42) (part 3)
 - [Usable writing is clear](https://basham.github.io/swit-workshop-writing/#/51) (part 4)
@@ -30,7 +30,7 @@ The words we use and how we use them in apps and websites should solve problems,
 - [Kind writing is helpful](https://basham.github.io/swit-workshop-writing/#/81) (part 6)
 - [Kind writing is inclusive](https://basham.github.io/swit-workshop-writing/#/91) (part 7)
 - [Kind writing is conversational](https://basham.github.io/swit-workshop-writing/#/103) (part 8)
-- [Activity for kind writing](https://basham.github.io/swit-workshop-writing/#/114)
+- [Activities for kind writing](https://basham.github.io/swit-workshop-writing/#/114)
 - [Make your writing useful, usable, kind](https://basham.github.io/swit-workshop-writing/#/115)
 
 ## Resources

@@ -266,7 +266,7 @@ Useful writing is purposeful
 
 
 
-# Activity for useful writing
+# Activities for useful writing
 
 https://go.iu.edu/7M0G
 
@@ -1308,7 +1308,7 @@ Kind writing is conversational
 
 
 
-# Activity for kind writing
+# Activities for kind writing
 
 https://go.iu.edu/7TRd
 
