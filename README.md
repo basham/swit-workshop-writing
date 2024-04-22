@@ -4,12 +4,6 @@ Workshop for [Statewide IT Conference](https://statewideit.iu.edu/) at Indiana U
 
 April 22, 2024
 
-[Slides](https://basham.github.io/swit-workshop-writing/)
-
-- Press `s` for speaker notes.
-- Press arrow keys to advance slides.
-- Press `?` for more options.
-
 ## Description
 
 The words we use and how we use them in apps and websites should solve problems, not create them. Workshop participants will learn through practical exercises how to make content purposeful, concise, clear, and inclusive. Come away with strategies to integrate user experience writing principles and practices into your team's iterative process.
@@ -23,6 +17,14 @@ The words we use and how we use them in apps and websites should solve problems,
 - [Butterick's Practical Typography](https://practicaltypography.com/)
 
 ## Workshop slides
+
+### Instructions
+
+- Press `s` for speaker notes.
+- Press arrow keys to advance slides.
+- Press `?` for more options.
+
+### Outline
 
 - [Writing for Product Teams](https://basham.github.io/swit-workshop-writing/)
 - [Useful writing is purposeful](https://basham.github.io/swit-workshop-writing/#/13) (part 1)
