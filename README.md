@@ -25,18 +25,18 @@ The words we use and how we use them in apps and websites should solve problems,
 ## Workshop slides
 
 - [Writing for Product Teams](https://basham.github.io/swit-workshop-writing/)
-- Useful writing is purposeful (part 1)
-- Activity for useful writing
-- Usable writing is accessible (part 2)
-- Usable writing is navigable (part 3)
-- Usable writing is clear (part 4)
-- Usable writing is concise (part 5)
-- Activities for usable writing
-- Kind writing is helpful (part 6)
-- Kind writing is inclusive (part 7)
-- Kind writing is conversational (part 8)
-- Activity for kind writing
-- Make your writing useful, usable, kind
+- [Useful writing is purposeful](https://basham.github.io/swit-workshop-writing/#/13) (part 1)
+- [Activity for useful writing](https://basham.github.io/swit-workshop-writing/#/26)
+- [Usable writing is accessible](https://basham.github.io/swit-workshop-writing/#/27) (part 2)
+- [Usable writing is navigable](https://basham.github.io/swit-workshop-writing/#/42) (part 3)
+- [Usable writing is clear](https://basham.github.io/swit-workshop-writing/#/51) (part 4)
+- [Usable writing is concise](https://basham.github.io/swit-workshop-writing/#/65) (part 5)
+- [Activities for usable writing](https://basham.github.io/swit-workshop-writing/#/76)
+- [Kind writing is helpful](https://basham.github.io/swit-workshop-writing/#/81) (part 6)
+- [Kind writing is inclusive](https://basham.github.io/swit-workshop-writing/#/91) (part 7)
+- [Kind writing is conversational](https://basham.github.io/swit-workshop-writing/#/103) (part 8)
+- [Activity for kind writing](https://basham.github.io/swit-workshop-writing/#/114)
+- [Make your writing useful, usable, kind](https://basham.github.io/swit-workshop-writing/#/115)
 
 ## Edit slides
 
