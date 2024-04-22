@@ -40,7 +40,7 @@ The words we use and how we use them in apps and websites should solve problems,
 - [Conscious Style Guide](https://consciousstyleguide.com/)
 - [Butterick's Practical Typography](https://practicaltypography.com/)
 
-## Edit slides
+## Development environment
 
 Powered by [reveal.js](https://revealjs.com/).
 
