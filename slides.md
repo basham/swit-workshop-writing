@@ -34,7 +34,7 @@ Product teams solve problems. This workshop is about being intentional with the 
 The practice of using words to solve problems
 
 Notes:
-UX writing is the practice of using words to solve problems in digital products. You don't have to be a "designer" or a "writer" to get value from this workshop. This workshop is for any team member who has influece over the words that are used or how they are used.
+UX writing is the practice of using words to solve problems in digital products. You don't have to be a "designer" or a "writer" to get value from this workshop. This workshop is for any team member who has influence over the words that are used or how they are used.
 
 
 
@@ -123,17 +123,18 @@ We will learn how usable writing is accessible, navigable, clear, and concise.
 
 ## Kind writing is…
 
-6. Inclusive
-7. Conversational
+6. Helpful
+7. Inclusive
+8. Conversational
 
 Notes:
-We will learn how kind writing is inclusive and conversational.
+We will learn how kind writing is helpful, inclusive, and conversational.
 
 
 
 # Useful writing is purposeful
 
-Part 1 of 7
+Part 1 of 8
 
 Notes:
 Part 1. Writing should be purposeful.
@@ -276,7 +277,7 @@ https://go.iu.edu/7M0G
 
 # Usable writing is accessible
 
-Part 2 of 7
+Part 2 of 8
 
 Notes:
 In Part 1, we learned that writing is purposeful when it helps to achieve goals. In Part 2, we will learn how to make writing accessible.
@@ -422,7 +423,7 @@ Usable writing is accessible
 
 # Usable writing is navigable
 
-Part 3 of 7
+Part 3 of 8
 
 Notes:
 Now that the writing has a purpose and it is accessible, now let's examine how we can make it navigable.
@@ -537,8 +538,8 @@ The links in the "On this page" navigation (which weren't shown) are examples of
 
 | In context | Link only |
 | --- | --- |
-| [Learn more](#) about grow bag gardening | [Grow bag gardening](#) |
-| Tap the Search icon in the upper nav | Use [Search](#) to find [gardening tutorials](#) |
+| <u>Learn more</u> about grow bag gardening | <u>Grow bag gardening</u> |
+| Tap the Search icon in the upper nav | Use <u>Search</u> to find <u>gardening tutorials</u> |
 
 Notes:
 One should understand the purpose of a link by its surrounding context. However, links can be better if written such that the surrounding context is not needed.
@@ -553,14 +554,11 @@ For the second example, the text says "Tap the Search icon in the upper nav". Th
 
 Usable writing is navigable
 
-Notes:
-What questions do you have about making writing navigable?
-
 
 
 # Usable writing is clear
 
-Part 4 of 7
+Part 4 of 8
 
 Notes:
 Now that you can read and use the text, let's learn how to make the writing clear and understandable.
@@ -751,17 +749,6 @@ However, if making the text consistent reduces clarity, then it is better to be 
 
 
 
-## Place critical info before a decision point
-
-> New password: **abc123**
->
-> *Password must include a symbol*
-
-Notes:
-It is best to place critical information before a decision point. For example, if the instructions "password must include a symbol" is placed after the password field, then the user may not see the requirement until after they tried to enter a password. If it is placed before it, the user has a greater chance of success on the first try.
-
-
-
 ## Questions
 
 Usable writing is clear
@@ -770,7 +757,7 @@ Usable writing is clear
 
 # Usable writing is concise
 
-Part 5 of 7
+Part 5 of 8
 
 
 
@@ -904,6 +891,7 @@ Usable writing is concise
 1. Read aloud
 2. Paraphrase testing
 3. Content testing
+4. Readability testing
 
 Notes:
 Now let's explore some ways you can try to make your writing more usable.
@@ -945,9 +933,129 @@ Conduct content testing with 5 to 9 participants to evaluate the helpfulness of 
 
 
 
+## Readability testing
+
+- [Hemingway Editor](https://hemingwayapp.com) (free or paid)
+- Calculates reading level
+- Highlights adverbs, passive voice, long sentences
+
+Notes:
+The Hemingway Editor is one tool that suggests how to simplify the reading level of a text sample. As you type, it will highlight adverbs, use of passive voice, and long sentences. The paid version helps you make corrections with artificial intelligence.
+
+
+
+# Kind writing is helpful
+
+Part 6 of 8
+
+
+
+## Edge cases
+
+- "Edge case" dismisses users
+- Don't blame the user
+
+Notes:
+We should stop using the term "edge case." This is a way to dismiss a group of users. Similarly, do not blame users, even if it is their fault. Blaming doesn't help them meet their goals.
+
+
+
+## Stress cases
+
+Consider the user's:
+
+- emotional state and journey
+- life outside of the digital product
+
+Notes:
+Instead of using the term "edge cases" use "stress cases." This emphasizes emotional. Consider the user's emotional state and their emotional journey while using the digital product. Also consider how the words they encounter in your digital product impact their life outside of that experience.
+
+
+
+## Help despite stress
+
+Try to not increase stress
+
+Notes:
+We should help users get things done despite the stress they already have in their lives. Hopefully the interaction they have in our digital products won't increase that stress.
+
+
+
+## Errors
+
+- Avoid
+- Explain
+- Resolve
+
+Notes:
+Errors will happen. Anticipate them. Then you can try to handle them gracefully by: Avoiding them, explaining them, and resolving them.
+
+
+
+## Avoid errors
+
+- Provide instructions
+- List (or constrain) available options
+- Place requirements before input field
+
+> New password: **abc123**
+>
+> *Password must include a symbol*
+
+Notes:
+Here are three ways to avoid errors from happening:
+
+First, provide instructions explaining what to expect or how to operate something.
+
+Second, list the available options, so it is not open-ended. Or even constrain the options, such as using check boxes or radio buttons.
+
+Third, place any requirements of an input field before the input field. Don't place it after it or wait until the form is submitted.
+
+For example, if the instructions "password must include a symbol" is placed after the password field, then the user may not see the requirement until after they tried to enter a password. If it is placed before it, the user has a greater chance of success on the first try.
+
+
+
+## Explain errors
+
+- Display a clear and concise message
+- Reassure users
+- Link to more details
+
+Notes:
+Some errors can't be avoided. When this happens, display a clear and concise message. Reassure them concerning loss of time or data if possible. Link to pages that contain more information which may help users understand what's happening.
+
+
+
+## Resolve errors
+
+- Provide options
+- Help users progress toward goal
+
+Notes:
+After explaining an error, then if possible list the options they have to move forward. Help them make progress toward reaching their goal.
+
+
+
+## 404: Page not found
+
+> We couldn't find the article you're looking for.
+>
+> Try to <u>search for the article</u> or <u>explore articles by category</u>.
+
+Notes:
+The page not found error is common. Don't display "404" or blame the user for landing on a page that doesn't exist. Instead, be personal and direct. Say something like "We couldn't find the article you're looking for." Then use the features of the site to help them to find the article or explore other areas that could help them make progress. It could say "Try to search for the article or explore articles by category."
+
+
+
+## Questions
+
+Kind writing is helpful
+
+
+
 # Kind writing is inclusive
 
-Part 6 of 7
+Part 7 of 8
 
 
 
@@ -1079,25 +1187,18 @@ Kind writing is inclusive
 
 # Kind writing is conversational
 
-Part 7 of 7
-
-
-
-## Stress cases
-
-Not edge cases
-
+Part 8 of 8
 
 
 
 ## Conversational
 
 - Context-aware
-- Error tolerant
 - Polite
-- Turn based
-- Truthful
 - Personal
+
+Notes:
+In this final part, we'll explore how writing can be context-aware, be polite, and have personality.
 
 
 
@@ -1108,7 +1209,7 @@ Sensitive to time, place, preferences
 > **Phone notification:** Would you like to automatically turn on Silent Mode when you arrive at the movie theater?
 
 Notes:
-Third, the system should be context-aware. It should be sensitive to circumstances, such as time of day, location of the user, and any preferences the user has set. For example, a person's phone may be aware that they are going to a movie theater this evening, according to their calendar. Before leaving, the phone asks if silent mode should be turned on once they arrive, in order to avoid disturbing others during the movie.
+Writing that is context-aware is sensitive to circumstances, such as time of day, location of the user, and any preferences the user has set. For example, a person's phone may be aware that they are going to a movie theater this evening, according to their calendar. Before leaving, the phone asks if silent mode should be turned on once they arrive, in order to avoid disturbing others during the movie.
 
 
 
@@ -1123,82 +1224,81 @@ In contrast, a system can cause emotional distress if it does not tailor messagi
 
 https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
 
-What experiences have you had (context-aware or not context-aware)?
 
 
+## Polite
 
-## Quick and clear
+Respects time, anticipates needs
 
-To the point
-
-> **Alert:** Document saved
+> 
 
 Notes:
-Fourth, a system should be quick and clear with its messaging. For example, after the user saves a document, an alert displays that just states, "Document saved." That's sufficient to inform the person that they're not going to lose their progress.
+Writing that is polite respects the user's time and anticipates needs. For example, 
 
 
 
-## (Not quick and clear)
+## (Not polite)
 
-Ambiguous
+Wastes time, rude
 
-> **Alert:** System Error 5023
+> **Popup:** Spin this wheel to win!
+> 
+> **Person:** I'm just trying to read this article! I can't find the close button!
 
 Notes:
-In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
-
-What experiences have you had (quick and clear or not quick and clear)?
+Writing that is not polite wastes time or is rude. For example, a person is reading is article and a popup automatically appears, saying "Spin this wheel to win!" Then to make it worse, the close button is tiny and hard to see.
 
 
 
-## Voice
+## Personality
 
-What is said
+- **Voice:** What is said (information)
+- **Tone:** How it is said (emotion)
 
-(information)
-
-
-
-## Tone
-
-How it is said
-
-(mood, emotion, feeling)
-
-
-
-
-## Tone 1
-
-> 404 Error: Not found
-
-> We couldn't find the page you're looking for.
-
-
-
-## Tone 2
-
-> Reset your password now.
-
-> Keep your account secure by resetting your password.
-
-> Reset your password to keep your account secure.
+Notes:
+Writing can also have personality. This is often spoken of in the term "voice and tone." Voice is simply the information behind what is said. Tone is the emotional way that information is conveyed.
 
 
 
 ## Tone styles
 
+Choose based on audience, context, values:
+
 - Encouraging
+- Friendly
 - Informational
-- Trustworthy
-- Sympathetic
-- Motivational
-- Useful
 - Reassuring
 - Supportive
+- Sympathetic
+- Trustworthy
 
 Notes:
+The particular style of tone depends on the audience, the context, and the values the organization is conveying. Some tones will be used more than others. Not all tones will be used. Here are some example styles: [list styles]
+
 Writing Is Designing (chapter 7)
+
+
+
+## Effects of tone
+
+- Word choice
+- Sentence structure
+
+Notes:
+Different tone styles will direct the word and phrase choices we make and the structure of the sentences we write. Ultimately, a little goes a long way, so don't overdo it. Keep it simple.
+
+
+
+## Tone samples
+
+| Tone style | Sample |
+| --- | --- |
+| Informational | Item deleted |
+| Reassuring | You can restore deleted items from the trash bin for the next 30 days. |
+| Trustworthy | We keep your data encrypted and secure. We can't see it. We won't sell it. It is yours forever. |
+
+Notes:
+Here are three samples of how tone is reflected in a message. [Read samples.]
 
 
 

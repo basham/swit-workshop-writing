@@ -7,6 +7,30 @@ I'm going to play a recording of me using the macos VoiceOver screen reader to n
 
 
 
+## Quick and clear
+
+To the point
+
+> **Alert:** Document saved
+
+Notes:
+Fourth, a system should be quick and clear with its messaging. For example, after the user saves a document, an alert displays that just states, "Document saved." That's sufficient to inform the person that they're not going to lose their progress.
+
+
+
+## (Not quick and clear)
+
+Ambiguous
+
+> **Alert:** System Error 5023
+
+Notes:
+In contrast, something that is ambiguous is not quick and clear. The user could encounter an alert that displays an error code. This code has no meaning to the user. The message doesn't inform them what happened or didn't happen, or what they should do next or not do next. This creates confusion, raises stress, and wastes time.
+
+What experiences have you had (quick and clear or not quick and clear)?
+
+
+
 ## Turn-based
 
 Clarity regarding who should respond
@@ -66,23 +90,6 @@ What experiences have you had (truthful or not truthful)?
 
 
 
-## Polite
-
-Respect time, anticipate needs
-
-> 
-
-
-
-## (Not polite)
-
-Wastes time, rude
-
-> - **Popup:** Spin this wheel to win!
-> - **Person:** I'm just trying to read this article! I can't find the close button!
-
-
-
 ## Error-tolerant
 
 Anticipates errors, recovers seamlessly
@@ -100,7 +107,3 @@ Anticipates errors, recovers seamlessly
 
 Notes:
 In contrast, a system is not error-tolerant if the expectation does not align with reality. In this example, a customer arrived home a couple minutes before a technician from their internet service provider was scheduled to arrive. They read a note on their door claiming the technician a
-
-
-
-
