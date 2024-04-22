@@ -1230,23 +1230,23 @@ https://cloudfour.com/thinks/handling-death-gracefully-in-digital-experiences/
 
 Respects time, anticipates needs
 
-> 
+> **Utility service:** Would you like to set up auto-payment? We will email you a week before the monthly bill is due, so you have time to contact us about it before you are charged.
 
 Notes:
-Writing that is polite respects the user's time and anticipates needs. For example, 
+Writing that is polite respects the user's time and anticipates needs. For example, a prompt from a utility service could encourage the user to set up auto bill payment. It could say: "Would you like to set up auto-payment? We will email you a week before the monthly bill is due, so you have time to contact us about it before you are charged."
 
 
 
 ## (Not polite)
 
-Wastes time, rude
+Wastes time, imposes, rude
 
 > **Popup:** Spin this wheel to win!
-> 
+>
 > **Person:** I'm just trying to read this article! I can't find the close button!
 
 Notes:
-Writing that is not polite wastes time or is rude. For example, a person is reading is article and a popup automatically appears, saying "Spin this wheel to win!" Then to make it worse, the close button is tiny and hard to see.
+Writing that is not polite wastes time, imposes, or is rude. For example, a person is reading is article and a popup automatically appears, saying "Spin this wheel to win!" Then to make it worse, the close button is tiny and hard to see.
 
 
 
