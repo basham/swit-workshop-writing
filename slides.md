@@ -294,7 +294,7 @@ In Part 1, we learned that writing is purposeful when it helps to achieve goals.
 Notes:
 Writing is accessible if readers have the ability to distinguish the content in a text and perceive it as words and concepts.
 
-Here are seven success criteria that WCAG makes that addresses the question, "Can you read this?" I'll briefly review these.
+We can use text alternatives, color, text resize, and layout to help users read the text.
 
 
 
@@ -489,7 +489,7 @@ Headings should be used, starting with the `h1` element, which stands for "headi
 | `<footer>` | contentinfo |
 
 Notes:
-Many HTML elements have an implicit meaning. They are "landmark" elements which means they help users of assistive technology to navigate a page. It helps them to skim to major sections of content, like the header/banner at the start of the page, the main content area, or the footer at the end of the page.
+Many HTML elements have an implicit meaning. They are "landmark" elements which means they help users of assistive technology to navigate a page. It helps them to skip to major sections of content, like the header/banner at the start of the page, the main content area, or the footer at the end of the page.
 
 
 
@@ -510,7 +510,7 @@ Many HTML elements have an implicit meaning. They are "landmark" elements which 
 ```
 
 Notes:
-It is especially helpful to label landmarks when there are multiple landmarks of the same kind. In this example, there are two areas of navigation. The primary navigation doesn't have a visible label, so the attribute `aria-label` is used to just explicitly label it as "primary" for assistive technology users. The second navigation has the visible label "On this page" as a heading level 2. In this case, the nav's label is determined by using the `aria-labelledby` attribute, referencing the heading. The main element doesn't need a label, because there should ever only be one of those.
+It is especially helpful to label landmarks when there are multiple landmarks of the same kind. In this example, there are two areas of navigation. The primary navigation doesn't have a visible label, so the attribute `aria-label` is used to just explicitly label it as "primary" for assistive technology users. The second navigation has the visible label "On this page" as a heading level 2. In this case, the nav's label is determined by using the `aria-labelledby` attribute, referencing the heading. The `main` element doesn't need a label, because there should ever only be one of those.
 
 
 
@@ -546,7 +546,7 @@ One should understand the purpose of a link by its surrounding context. However,
 
 For example, the link "learn more" requires the nearby text "about grow bag gardening" to understand what it is about. It is better to simple have the link text "grow bag gardening."
 
-For the second example, the text says "Tap the Search icon in the upper nav". There is no link. You have to guess what it means, and hopefully you've already noticed the search icon. It is better to write "Use Search to find gardening tutorials" in which "Search" is a link to start a new search and "gardening tutorials" is a link to the search results for gardening tutorials and an in-context example of what to search for.
+For the second example, the text says "Tap the Search icon in the upper nav". There is no link. You have to guess what it means, and hopefully you've already noticed the search icon. It is better to write "Use Search to find gardening tutorials". "Search" is a link to start a new search. "Gardening tutorials" is a link to the search results for gardening tutorials. That text is also an example of what to search for.
 
 
 
@@ -679,7 +679,7 @@ Definitions can also be curated in a glossary. Words can be linked to the terms 
 > First-year applicants of Indiana University (IU) must have a minimum GPA (grade point average) of 2.5.
 
 Notes:
-Abbreviations can be defined or expanded inline. For example, "First-year applicants of Indiana University (IU) must have a minimum GPA (grade point average) of 2.5." Now, the rest of the page can freely use IU and GPA because it has been declared.
+Abbreviations can be defined or expanded inline. For example, "First-year applicants of Indiana University (IU) must have a minimum GPA (grade point average) of 2.5." Now, the rest of the page can freely use the abbreviations IU and GPA because it has been declared.
 
 
 
@@ -725,13 +725,13 @@ Some words can be troublesome to pronounce. Like unusual words, their pronunciat
 - Know your target audience
 
 Notes:
-If writing for general audiences, then writing should be at a middle school reading level. This is achieved primarily by using short words that are common and short sentences. If it is a name or title, then that doesn't need to be altered. Short sentences also help.
+If writing for general audiences, then writing should be at a middle school reading level. This is achieved by using short words that are common. If it is a name or title, then that doesn't need to be altered. Short sentences also help.
 
 Reducing the reading level is a way to help readers with cognitive impairments or those in which English is not their primary language.
 
 There are readability tests that can be used to help reduce the reading level. They are predictions not guarantees of how understandable any given text is.
 
-However, if you know your audience, as we've already discussed, then you should know how to write to them, using the language they know. If your audience is alumni, you know they have a college reading level, and they will have the experience of going through an academic institution.
+However, if you know your audience, as we've already discussed, then you should know how to write for them, using the language they know. If your audience is alumni, you know they have a college reading level, and they will have the experience of going through an academic institution.
 
 
 
@@ -968,7 +968,7 @@ Consider the user's:
 - life outside of the digital product
 
 Notes:
-Instead of using the term "edge cases" use "stress cases." This emphasizes emotional. Consider the user's emotional state and their emotional journey while using the digital product. Also consider how the words they encounter in your digital product impact their life outside of that experience.
+Instead of using the term "edge cases" use "stress cases." This emphasizes emotion. Consider the user's emotional state and their emotional journey while using the digital product. Also consider how the words they encounter in your digital product impact their life outside of that experience.
 
 
 
@@ -1043,7 +1043,7 @@ After explaining an error, then if possible list the options they have to move f
 > Try to <u>search for the article</u> or <u>explore articles by category</u>.
 
 Notes:
-The page not found error is common. Don't display "404" or blame the user for landing on a page that doesn't exist. Instead, be personal and direct. Say something like "We couldn't find the article you're looking for." Then use the features of the site to help them to find the article or explore other areas that could help them make progress. It could say "Try to search for the article or explore articles by category."
+The "page not found" error is common. Don't display only "404". Don't blame the user for landing on a page that doesn't exist. Instead, be personal and direct. Say something like "We couldn't find the article you're looking for." Then use the features of the site to help them to find the article or explore other areas that could help them make progress. It could say "Try to search for the article or explore articles by category."
 
 
 
@@ -1102,7 +1102,7 @@ Click, Tap, Press, See
 Choose, Select, Use, View
 
 Notes:
-In general, do not use words that describe the what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
+In general, do not use words that describe what the user should do with their device, such as click a mouse, tap the screen, press a button, or see the printout. Instead, use words that describe the action the user wants to do with the interface, such as choose an option, select text, use search, or view more details.
 
 
 
@@ -1246,7 +1246,7 @@ Wastes time, imposes, rude
 > **Person:** I'm just trying to read this article! I can't find the close button!
 
 Notes:
-Writing that is not polite wastes time, imposes, or is rude. For example, a person is reading is article and a popup automatically appears, saying "Spin this wheel to win!" Then to make it worse, the close button is tiny and hard to see.
+Writing that is not polite wastes time, imposes, or is rude. For example, a person is reading an article and a popup automatically appears, saying "Spin this wheel to win!" Then to make it worse, the close button is tiny and hard to see.
 
 
 
@@ -1256,7 +1256,7 @@ Writing that is not polite wastes time, imposes, or is rude. For example, a pers
 - **Tone:** How it is said (emotion)
 
 Notes:
-Writing can also have personality. This is often spoken of in the term "voice and tone." Voice is simply the information behind what is said. Tone is the emotional way that information is conveyed.
+Writing can also have personality. This is often spoken of in the terms "voice and tone." Voice is simply the information behind what is said. Tone is the emotional way that information is conveyed.
 
 
 
@@ -1323,4 +1323,4 @@ Workshop slides:
 https://go.iu.edu/7TRp
 
 Notes:
-Once again, the slides and additional resources are on GitHub. Feel free to follow up with me as you need. Thank you for joining me today.
+As you leave, think about how you can make your writing more useful, usable, and kind. Thank you for your time and attention.
