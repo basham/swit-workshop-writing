@@ -12,6 +12,7 @@ The words we use and how we use them in apps and websites should solve problems,
 
 ### Instructions
 
+- Slides are powered by [reveal.js](https://revealjs.com/).
 - Press `s` for speaker notes.
 - Press arrow keys to advance slides.
 - Press `?` for more options.
@@ -42,10 +43,6 @@ The words we use and how we use them in apps and websites should solve problems,
 
 ## Development environment
 
-Powered by [reveal.js](https://revealjs.com/).
-
-See: [*How to host Reveal.js slides on GitHub pages and have a tidy repository*](https://medium.com/@martinomensio/how-to-host-reveal-js-slides-on-github-pages-and-have-a-tidy-repository-1a363944c38d)
-
 Install dependencies ([live-server](https://www.npmjs.com/package/live-server)).
 
 ```
@@ -57,3 +54,5 @@ Start the slide presentation.
 ```
 make start
 ```
+
+See: [*How to host Reveal.js slides on GitHub pages and have a tidy repository*](https://medium.com/@martinomensio/how-to-host-reveal-js-slides-on-github-pages-and-have-a-tidy-repository-1a363944c38d)
