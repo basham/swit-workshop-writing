@@ -324,6 +324,9 @@ First, the WCAG success criteria 1.1.1 is about text alternatives. Images that c
 
 > Required fields are displayed in red and marked with an asterisks (*)
 
+Notes:
+Don't just use color as the only way to distinguish content. In this example, this says: "Required fields are displayed in red and marked with an asterisks (*)." If it was just in red, that's not enough information for all users, so provide some visual redundancy, like a symbol.
+
 
 
 ## Text contrast
@@ -333,6 +336,9 @@ First, the WCAG success criteria 1.1.1 is about text alternatives. Images that c
 - [SC 1.4.6](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) (Level AAA):  
 **7:1** minimum contrast ratio
 
+Notes:
+There is a minimum text contrast requirement between the text color and its background color. The AAA text contrast requirements are more strict than the AA requirements.
+
 
 
 ## Text resize
@@ -341,6 +347,9 @@ First, the WCAG success criteria 1.1.1 is about text alternatives. Images that c
 - Resize text up to 200% without loss  
 of content or functionality
 
+Notes:
+You should be able to resize text upwards of 200%, but it should be done in a way that no information is lost. This can happen when images overlap text or text is clipped.
+
 
 
 ## Avert horizontal scrolling
@@ -348,6 +357,9 @@ of content or functionality
 - [SC 1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow) (Level AA)
 - Don't require horizontal scrolling  
 when viewport is 320px.
+
+Notes:
+Scrolling primarily happens vertically. When the viewport of the device is smaller, try to make the content adaptable enough to avert horizontal scrolling. Scrolling in two directions is tricky, so try to avoid it. This gets challenging with content like tables, but there are techniques than can be explored which help.
 
 
 
@@ -359,12 +371,18 @@ when viewport is 320px.
 - **Paragraph spacing:** 250% or more
 - **Text alignment:** Not justified
 
+Notes:
+To improve layout, aim for line length that is about 80 characters or less. Be generous with line spacing, setting it to about 150%. Set paragraph spacing greater than line spacing, about 250%. In general, default to left-aligned text for English content and don't use justified text on the web.
+
 
 
 ## Don't cut off or overlap text
 
 - [SC 1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing) (Level AA)
 - Adapt content to user-defined layout settings
+
+Notes:
+Don't cut off or overlap text. Again this can also happen when you are zooming and pinching in. It can also happen when some users have different defaults for their styles in the browser.
 
 
 
@@ -375,6 +393,9 @@ when viewport is 320px.
 - Typography
 - Visibility
 
+Notes:
+The Rivet Design System is used for both applications and websites. There's a number of things that it provides that can address some of these accessibility issues mentioned, such as color, spacing, topography, and content visibility.
+
 
 
 ## Rivet color
@@ -384,6 +405,9 @@ when viewport is 320px.
 - **Background:** `.rvt-bg-green-100`
 - Contrast checker (Levels AA/AAA)
 
+Notes:
+In terms of Rivet color, you can use rvt-color-[the particular color] to put in the the text color. You can also use a background utility class for doing background colors. The documentation includes a contrast checker which you can set to check any two Rivet colors against each other. It will say if the chosen colors pass AAA requirements, AA requirements, or neither of these requirements.
+
 
 
 ## Rivet spacing
@@ -392,6 +416,9 @@ when viewport is 320px.
 - **Gap:** `.rvt-gap-col-sm`
 - **Margin:** `.rvt-m-top-md`
 - **Padding:** `.rvt-p-left-lg`
+
+Notes:
+Rivet also has some spacing utilities, to change margin, padding, or the new gap property for CSS grid and flexbox.
 
 
 
@@ -403,7 +430,7 @@ when viewport is 320px.
 - **Content:** `.rvt-prose`
 
 Notes:
-Benton Sans
+Concerning typography, there are provided font sizes. For example, for .rvt-ts-md, "ts" stands for "type scale" and "md" stands for "medium" or 26-point font. The body is by default 1.5 line length, which matches the 150% line spacing requirement. The .rvt-prose will automatically style a chunk of content, without needing to explicitly style individual parts.
 
 
 
@@ -412,6 +439,9 @@ Benton Sans
 - [Visibility documentation](https://rivet.uits.iu.edu/utilities/visibility/)
 - **Screen readers only:** `.rvt-sr-only`
 - **Hide for all:** `.rvt-display-none`
+
+Notes:
+The Rivet visibility utilities allows you to control the visibility of content. Some content may be hidden to sighted users but announced by screen readers. Some content may be hidden to all users.
 
 
 
